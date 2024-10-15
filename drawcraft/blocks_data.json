@@ -1,0 +1,4642 @@
+{
+    "acacia_log.png": {
+        "face": "solid",
+        "smoothness": 95.35112758638901,
+        "filter_mode": "normal",
+        "colors": [
+            103.25,
+            96.578125,
+            86.91796875
+        ]
+    },
+    "acacia_log_top.png": {
+        "face": "solid",
+        "smoothness": 94.84095231608515,
+        "filter_mode": "normal",
+        "colors": [
+            150.90625,
+            88.83984375,
+            55.1640625
+        ]
+    },
+    "acacia_planks.png": {
+        "face": "solid",
+        "smoothness": 95.02818792292474,
+        "filter_mode": "normal",
+        "colors": [
+            168.1328125,
+            90.37109375,
+            50.2265625
+        ]
+    },
+    "amethyst_block.png": {
+        "face": "solid",
+        "smoothness": 88.10040029627973,
+        "filter_mode": "normal",
+        "colors": [
+            133.78515625,
+            97.984375,
+            191.25390625
+        ]
+    },
+    "ancient_debris_side.png": {
+        "face": "side",
+        "smoothness": 90.49702778942151,
+        "filter_mode": "normal",
+        "colors": [
+            95.72265625,
+            63.7421875,
+            55.8671875
+        ]
+    },
+    "ancient_debris_top.png": {
+        "face": "top",
+        "smoothness": 87.86663395013508,
+        "filter_mode": "normal",
+        "colors": [
+            94.8125,
+            66.48046875,
+            58.4375
+        ]
+    },
+    "andesite.png": {
+        "face": "solid",
+        "smoothness": 94.82379688656249,
+        "filter_mode": "normal",
+        "colors": [
+            136.15234375,
+            136.26171875,
+            136.77734375
+        ]
+    },
+    "bamboo_block.png": {
+        "face": "solid",
+        "smoothness": 89.91647538815066,
+        "filter_mode": "normal",
+        "colors": [
+            127.21875,
+            144.01953125,
+            57.54296875
+        ]
+    },
+    "bamboo_block_top.png": {
+        "face": "solid",
+        "smoothness": 86.18513811863404,
+        "filter_mode": "normal",
+        "colors": [
+            139.109375,
+            141.78125,
+            62.46875
+        ]
+    },
+    "bamboo_mosaic.png": {
+        "face": "solid",
+        "smoothness": 89.92093521712076,
+        "filter_mode": "normal",
+        "colors": [
+            190.203125,
+            170.1796875,
+            78.09375
+        ]
+    },
+    "bamboo_planks.png": {
+        "face": "solid",
+        "smoothness": 89.24194881057217,
+        "filter_mode": "normal",
+        "colors": [
+            193.37109375,
+            173.1015625,
+            80.47265625
+        ]
+    },
+    "barrel_bottom.png": {
+        "face": "solid",
+        "smoothness": 94.93124375771843,
+        "filter_mode": "normal",
+        "colors": [
+            115.578125,
+            85.421875,
+            48.84765625
+        ]
+    },
+    "barrel_side.png": {
+        "face": "solid",
+        "smoothness": 89.67274394734228,
+        "filter_mode": "normal",
+        "colors": [
+            107.875,
+            81.3125,
+            50.1640625
+        ]
+    },
+    "barrel_top.png": {
+        "face": "solid",
+        "smoothness": 94.90730109069627,
+        "filter_mode": "normal",
+        "colors": [
+            134.515625,
+            100.5390625,
+            58.49609375
+        ]
+    },
+    "basalt_side.png": {
+        "face": "solid",
+        "smoothness": 94.87403118187191,
+        "filter_mode": "normal",
+        "colors": [
+            73.20703125,
+            72.52734375,
+            77.921875
+        ]
+    },
+    "basalt_top.png": {
+        "face": "solid",
+        "smoothness": 90.11582121000666,
+        "filter_mode": "normal",
+        "colors": [
+            80.578125,
+            81.4921875,
+            86.24609375
+        ]
+    },
+    "bedrock.png": {
+        "face": "solid",
+        "smoothness": 87.58869340800312,
+        "filter_mode": "normal",
+        "colors": [
+            85.1171875,
+            85.1171875,
+            85.1171875
+        ]
+    },
+    "beehive_end.png": {
+        "face": "solid",
+        "smoothness": 95.91526661482287,
+        "filter_mode": "normal",
+        "colors": [
+            180.54296875,
+            146.09765625,
+            90.26953125
+        ]
+    },
+    "beehive_front.png": {
+        "face": "side",
+        "smoothness": 90.78634621426056,
+        "filter_mode": "normal",
+        "colors": [
+            159.23046875,
+            128.07421875,
+            77.58203125
+        ]
+    },
+    "beehive_front_honey.png": {
+        "face": "side",
+        "smoothness": 90.97966114102611,
+        "filter_mode": "normal",
+        "colors": [
+            167.38671875,
+            131.62890625,
+            74.02734375
+        ]
+    },
+    "beehive_side.png": {
+        "face": "side",
+        "smoothness": 91.25990637695406,
+        "filter_mode": "normal",
+        "colors": [
+            157.22265625,
+            126.36328125,
+            75.8203125
+        ]
+    },
+    "bee_nest_bottom.png": {
+        "face": "bottom",
+        "smoothness": 84.13964260721447,
+        "filter_mode": "normal",
+        "colors": [
+            160.53515625,
+            127.17578125,
+            87.8359375
+        ]
+    },
+    "bee_nest_front.png": {
+        "face": "side",
+        "smoothness": 83.013167749781,
+        "filter_mode": "normal",
+        "colors": [
+            183.33984375,
+            141.8515625,
+            76.125
+        ]
+    },
+    "bee_nest_front_honey.png": {
+        "face": "side",
+        "smoothness": 83.2432248916238,
+        "filter_mode": "normal",
+        "colors": [
+            194.96875,
+            151.92578125,
+            75.54296875
+        ]
+    },
+    "bee_nest_side.png": {
+        "face": "side",
+        "smoothness": 85.05372109714703,
+        "filter_mode": "normal",
+        "colors": [
+            196.2421875,
+            150.80859375,
+            77.359375
+        ]
+    },
+    "bee_nest_top.png": {
+        "face": "top",
+        "smoothness": 76.64545804151616,
+        "filter_mode": "normal",
+        "colors": [
+            202.12890625,
+            160.17578125,
+            74.72265625
+        ]
+    },
+    "birch_log.png": {
+        "face": "solid",
+        "smoothness": 83.88402183871196,
+        "filter_mode": "normal",
+        "colors": [
+            216.55859375,
+            215.0078125,
+            210.296875
+        ]
+    },
+    "birch_log_top.png": {
+        "face": "solid",
+        "smoothness": 88.84470993707517,
+        "filter_mode": "normal",
+        "colors": [
+            193.24609375,
+            179.42578125,
+            135.16015625
+        ]
+    },
+    "birch_planks.png": {
+        "face": "solid",
+        "smoothness": 92.63883961887376,
+        "filter_mode": "normal",
+        "colors": [
+            192.46875,
+            175.29296875,
+            121.2421875
+        ]
+    },
+    "blackstone.png": {
+        "face": "solid",
+        "smoothness": 94.46956816293289,
+        "filter_mode": "normal",
+        "colors": [
+            42.2109375,
+            35.5,
+            40.734375
+        ]
+    },
+    "blackstone_top.png": {
+        "face": "top",
+        "smoothness": 94.09596361620467,
+        "filter_mode": "normal",
+        "colors": [
+            42.4453125,
+            36.4609375,
+            41.984375
+        ]
+    },
+    "black_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.68118889825622,
+        "filter_mode": "normal",
+        "colors": [
+            8.40234375,
+            10.40234375,
+            15.40234375
+        ]
+    },
+    "black_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.4008913427505,
+        "filter_mode": "normal",
+        "colors": [
+            25.296875,
+            26.7421875,
+            31.9765625
+        ]
+    },
+    "black_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 93.79059105551808,
+        "filter_mode": "normal",
+        "colors": [
+            67.734375,
+            30.03515625,
+            32.2109375
+        ]
+    },
+    "black_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 98.34856206801726,
+        "filter_mode": "normal",
+        "colors": [
+            25.0625,
+            25.421875,
+            29.53515625
+        ]
+    },
+    "black_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.68976034009978,
+        "filter_mode": "normal",
+        "colors": [
+            37.21875,
+            22.828125,
+            16.38671875
+        ]
+    },
+    "black_wool.png": {
+        "face": "solid",
+        "smoothness": 97.3738461380701,
+        "filter_mode": "normal",
+        "colors": [
+            20.6015625,
+            21.296875,
+            25.6328125
+        ]
+    },
+    "blast_furnace_front.png": {
+        "face": "side",
+        "smoothness": 87.46776573229756,
+        "filter_mode": "normal",
+        "colors": [
+            107.58203125,
+            107.6484375,
+            107.26171875
+        ]
+    },
+    "blast_furnace_side.png": {
+        "face": "side",
+        "smoothness": 89.66497489252762,
+        "filter_mode": "normal",
+        "colors": [
+            107.80859375,
+            107.4921875,
+            107.6875
+        ]
+    },
+    "blast_furnace_top.png": {
+        "face": "top",
+        "smoothness": 95.05765371788608,
+        "filter_mode": "normal",
+        "colors": [
+            80.9140625,
+            80.25390625,
+            81.01953125
+        ]
+    },
+    "blue_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.80558347840197,
+        "filter_mode": "normal",
+        "colors": [
+            44.5390625,
+            46.5390625,
+            143.421875
+        ]
+    },
+    "blue_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.9108451149915,
+        "filter_mode": "normal",
+        "colors": [
+            70.23828125,
+            73.265625,
+            166.83203125
+        ]
+    },
+    "blue_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 91.77512655146668,
+        "filter_mode": "normal",
+        "colors": [
+            47.453125,
+            64.64453125,
+            139.37109375
+        ]
+    },
+    "blue_ice.png": {
+        "face": "solid",
+        "smoothness": 96.80919165977731,
+        "filter_mode": "normal",
+        "colors": [
+            116.08984375,
+            167.6484375,
+            253.015625
+        ]
+    },
+    "blue_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.57900027492309,
+        "filter_mode": "normal",
+        "colors": [
+            43.69140625,
+            45.60546875,
+            140.19921875
+        ]
+    },
+    "blue_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.47042712237769,
+        "filter_mode": "normal",
+        "colors": [
+            74.29296875,
+            59.68359375,
+            91.109375
+        ]
+    },
+    "blue_wool.png": {
+        "face": "solid",
+        "smoothness": 97.50123168506838,
+        "filter_mode": "normal",
+        "colors": [
+            53.0546875,
+            57.25390625,
+            157.4921875
+        ]
+    },
+    "bone_block_side.png": {
+        "face": "solid",
+        "smoothness": 99.13074645924932,
+        "filter_mode": "normal",
+        "colors": [
+            229.44921875,
+            225.91015625,
+            207.796875
+        ]
+    },
+    "bone_block_top.png": {
+        "face": "solid",
+        "smoothness": 96.07887001152466,
+        "filter_mode": "normal",
+        "colors": [
+            209.8203125,
+            206.21484375,
+            179.40234375
+        ]
+    },
+    "bookshelf.png": {
+        "face": "side",
+        "smoothness": 83.48647370227296,
+        "filter_mode": "normal",
+        "colors": [
+            117.4296875,
+            94.56640625,
+            59.8203125
+        ]
+    },
+    "brain_coral_block.png": {
+        "face": "solid",
+        "smoothness": 91.63020792021395,
+        "filter_mode": "normal",
+        "colors": [
+            207.45703125,
+            91.13671875,
+            159.37890625
+        ]
+    },
+    "bricks.png": {
+        "face": "solid",
+        "smoothness": 91.01937641412027,
+        "filter_mode": "normal",
+        "colors": [
+            150.953125,
+            97.56640625,
+            83.0625
+        ]
+    },
+    "brown_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.83374509179025,
+        "filter_mode": "normal",
+        "colors": [
+            96.44921875,
+            59.546875,
+            31.59765625
+        ]
+    },
+    "brown_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.65726362207174,
+        "filter_mode": "normal",
+        "colors": [
+            125.53515625,
+            84.84765625,
+            53.86328125
+        ]
+    },
+    "brown_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 89.40378739622925,
+        "filter_mode": "normal",
+        "colors": [
+            119.96875,
+            106.24609375,
+            85.9453125
+        ]
+    },
+    "brown_mushroom_block.png": {
+        "face": "solid",
+        "smoothness": 99.02010346248132,
+        "filter_mode": "normal",
+        "colors": [
+            149.3359375,
+            111.7890625,
+            81.45703125
+        ]
+    },
+    "brown_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 98.15293803549297,
+        "filter_mode": "normal",
+        "colors": [
+            106.32421875,
+            66.0703125,
+            35.96875
+        ]
+    },
+    "brown_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.45339506009098,
+        "filter_mode": "normal",
+        "colors": [
+            77.234375,
+            51.1796875,
+            35.703125
+        ]
+    },
+    "brown_wool.png": {
+        "face": "solid",
+        "smoothness": 97.20503577700083,
+        "filter_mode": "normal",
+        "colors": [
+            114.234375,
+            71.609375,
+            40.5859375
+        ]
+    },
+    "bubble_coral_block.png": {
+        "face": "solid",
+        "smoothness": 93.50457907753739,
+        "filter_mode": "normal",
+        "colors": [
+            165.34375,
+            26.328125,
+            162.20703125
+        ]
+    },
+    "budding_amethyst.png": {
+        "face": "solid",
+        "smoothness": 85.49562555871584,
+        "filter_mode": "normal",
+        "colors": [
+            132.41796875,
+            96.19140625,
+            186.765625
+        ]
+    },
+    "calcite.png": {
+        "face": "solid",
+        "smoothness": 93.12565567566749,
+        "filter_mode": "normal",
+        "colors": [
+            223.47265625,
+            224.46484375,
+            220.6640625
+        ]
+    },
+    "cartography_table_side1.png": {
+        "face": "side",
+        "smoothness": 92.80356144683326,
+        "filter_mode": "normal",
+        "colors": [
+            70.49609375,
+            50.34765625,
+            34.34375
+        ]
+    },
+    "cartography_table_side2.png": {
+        "face": "side",
+        "smoothness": 88.64566233431488,
+        "filter_mode": "normal",
+        "colors": [
+            81.6640625,
+            61.94140625,
+            42.2890625
+        ]
+    },
+    "cartography_table_side3.png": {
+        "face": "side",
+        "smoothness": 95.66814909275828,
+        "filter_mode": "normal",
+        "colors": [
+            67.80078125,
+            43.90234375,
+            20.453125
+        ]
+    },
+    "cartography_table_top.png": {
+        "face": "top",
+        "smoothness": 83.71095790556815,
+        "filter_mode": "normal",
+        "colors": [
+            103.4765625,
+            87.4453125,
+            67.2265625
+        ]
+    },
+    "carved_pumpkin.png": {
+        "face": "side",
+        "smoothness": 81.371130336723,
+        "filter_mode": "normal",
+        "colors": [
+            150.16796875,
+            84.25,
+            17.265625
+        ]
+    },
+    "chain_command_block_back.png": {
+        "face": "side",
+        "smoothness": 88.12744077536713,
+        "filter_mode": "normal",
+        "colors": [
+            129.97265625,
+            156.953125,
+            144.9453125
+        ]
+    },
+    "chain_command_block_conditional.png": {
+        "face": "solid",
+        "smoothness": 89.4097858923994,
+        "filter_mode": "normal",
+        "colors": [
+            129.75,
+            161.7578125,
+            147.3125
+        ]
+    },
+    "chain_command_block_front.png": {
+        "face": "solid",
+        "smoothness": 89.47916760605743,
+        "filter_mode": "normal",
+        "colors": [
+            132.51953125,
+            165.42578125,
+            150.58203125
+        ]
+    },
+    "chain_command_block_side.png": {
+        "face": "solid",
+        "smoothness": 89.39817978500756,
+        "filter_mode": "normal",
+        "colors": [
+            131.21875,
+            161.08203125,
+            147.515625
+        ]
+    },
+    "cherry_log.png": {
+        "face": "solid",
+        "smoothness": 96.28798812069876,
+        "filter_mode": "normal",
+        "colors": [
+            54.71875,
+            33.01171875,
+            44.3984375
+        ]
+    },
+    "cherry_log_top.png": {
+        "face": "solid",
+        "smoothness": 79.935993355869,
+        "filter_mode": "normal",
+        "colors": [
+            185.15234375,
+            141.03125,
+            137.265625
+        ]
+    },
+    "cherry_planks.png": {
+        "face": "solid",
+        "smoothness": 94.02368634746406,
+        "filter_mode": "normal",
+        "colors": [
+            226.51171875,
+            178.7265625,
+            172.71484375
+        ]
+    },
+    "chiseled_bookshelf_empty.png": {
+        "face": "side",
+        "smoothness": 78.21729417110865,
+        "filter_mode": "normal",
+        "colors": [
+            90.26171875,
+            70.98046875,
+            41.609375
+        ]
+    },
+    "chiseled_bookshelf_occupied.png": {
+        "face": "side",
+        "smoothness": 79.38844178247646,
+        "filter_mode": "normal",
+        "colors": [
+            121.33203125,
+            94.15625,
+            69.984375
+        ]
+    },
+    "chiseled_bookshelf_side.png": {
+        "face": "side",
+        "smoothness": 92.94045567651864,
+        "filter_mode": "normal",
+        "colors": [
+            175.140625,
+            141.63671875,
+            86.453125
+        ]
+    },
+    "chiseled_bookshelf_top.png": {
+        "face": "top",
+        "smoothness": 93.56290684706471,
+        "filter_mode": "normal",
+        "colors": [
+            178.02734375,
+            144.60546875,
+            88.76171875
+        ]
+    },
+    "chiseled_copper.png": {
+        "face": "solid",
+        "smoothness": 92.6227137293533,
+        "filter_mode": "normal",
+        "colors": [
+            184.0,
+            100.7890625,
+            73.83984375
+        ]
+    },
+    "chiseled_deepslate.png": {
+        "face": "solid",
+        "smoothness": 93.85245712339534,
+        "filter_mode": "normal",
+        "colors": [
+            54.296875,
+            54.3203125,
+            54.8828125
+        ]
+    },
+    "chiseled_nether_bricks.png": {
+        "face": "solid",
+        "smoothness": 96.49740160530882,
+        "filter_mode": "normal",
+        "colors": [
+            47.4375,
+            23.703125,
+            28.19921875
+        ]
+    },
+    "chiseled_polished_blackstone.png": {
+        "face": "solid",
+        "smoothness": 92.65079569787393,
+        "filter_mode": "normal",
+        "colors": [
+            53.9765625,
+            48.6640625,
+            56.8125
+        ]
+    },
+    "chiseled_quartz_block.png": {
+        "face": "side",
+        "smoothness": 97.13331773853335,
+        "filter_mode": "normal",
+        "colors": [
+            231.86328125,
+            226.86328125,
+            218.00390625
+        ]
+    },
+    "chiseled_quartz_block_top.png": {
+        "face": "top",
+        "smoothness": 97.0870134040061,
+        "filter_mode": "normal",
+        "colors": [
+            231.55859375,
+            226.57421875,
+            217.18359375
+        ]
+    },
+    "chiseled_red_sandstone.png": {
+        "face": "side",
+        "smoothness": 94.69656914136317,
+        "filter_mode": "normal",
+        "colors": [
+            183.21484375,
+            96.94140625,
+            27.50390625
+        ]
+    },
+    "chiseled_sandstone.png": {
+        "face": "side",
+        "smoothness": 93.72133680116711,
+        "filter_mode": "normal",
+        "colors": [
+            216.22265625,
+            202.984375,
+            155.41796875
+        ]
+    },
+    "chiseled_stone_bricks.png": {
+        "face": "solid",
+        "smoothness": 90.61306072473144,
+        "filter_mode": "normal",
+        "colors": [
+            119.78125,
+            118.90625,
+            119.78125
+        ]
+    },
+    "chiseled_tuff.png": {
+        "face": "side",
+        "smoothness": 93.30551756398748,
+        "filter_mode": "normal",
+        "colors": [
+            89.16015625,
+            94.28125,
+            86.7265625
+        ]
+    },
+    "chiseled_tuff_bricks.png": {
+        "face": "side",
+        "smoothness": 93.27702409017722,
+        "filter_mode": "normal",
+        "colors": [
+            98.90625,
+            103.28125,
+            95.5546875
+        ]
+    },
+    "chiseled_tuff_bricks_top.png": {
+        "face": "top",
+        "smoothness": 94.09569422756987,
+        "filter_mode": "normal",
+        "colors": [
+            110.875,
+            113.99609375,
+            106.81640625
+        ]
+    },
+    "chiseled_tuff_top.png": {
+        "face": "top",
+        "smoothness": 93.34726938239812,
+        "filter_mode": "normal",
+        "colors": [
+            93.796875,
+            98.6015625,
+            91.1796875
+        ]
+    },
+    "clay.png": {
+        "face": "solid",
+        "smoothness": 97.7942841684927,
+        "filter_mode": "normal",
+        "colors": [
+            160.6796875,
+            166.4609375,
+            179.4453125
+        ]
+    },
+    "coal_block.png": {
+        "face": "solid",
+        "smoothness": 96.60775937860684,
+        "filter_mode": "normal",
+        "colors": [
+            16.0234375,
+            15.91796875,
+            15.91796875
+        ]
+    },
+    "coal_ore.png": {
+        "face": "solid",
+        "smoothness": 89.09198312320565,
+        "filter_mode": "normal",
+        "colors": [
+            105.671875,
+            105.828125,
+            105.359375
+        ]
+    },
+    "coarse_dirt.png": {
+        "face": "solid",
+        "smoothness": 91.69904728215221,
+        "filter_mode": "normal",
+        "colors": [
+            119.4453125,
+            85.6015625,
+            59.3984375
+        ]
+    },
+    "cobbled_deepslate.png": {
+        "face": "solid",
+        "smoothness": 91.78421015621198,
+        "filter_mode": "normal",
+        "colors": [
+            77.2734375,
+            77.2734375,
+            80.609375
+        ]
+    },
+    "cobblestone.png": {
+        "face": "solid",
+        "smoothness": 88.53933848725191,
+        "filter_mode": "normal",
+        "colors": [
+            127.7890625,
+            127.3046875,
+            127.59765625
+        ]
+    },
+    "command_block_back.png": {
+        "face": "side",
+        "smoothness": 88.32371848288957,
+        "filter_mode": "normal",
+        "colors": [
+            173.76171875,
+            131.15234375,
+            106.73828125
+        ]
+    },
+    "command_block_conditional.png": {
+        "face": "solid",
+        "smoothness": 89.76108287895383,
+        "filter_mode": "normal",
+        "colors": [
+            178.67578125,
+            133.2109375,
+            105.9296875
+        ]
+    },
+    "command_block_front.png": {
+        "face": "solid",
+        "smoothness": 89.67158983756202,
+        "filter_mode": "normal",
+        "colors": [
+            180.98828125,
+            135.8828125,
+            108.2890625
+        ]
+    },
+    "command_block_side.png": {
+        "face": "solid",
+        "smoothness": 89.6193435219733,
+        "filter_mode": "normal",
+        "colors": [
+            177.3359375,
+            133.58984375,
+            107.671875
+        ]
+    },
+    "composter_bottom.png": {
+        "face": "bottom",
+        "smoothness": 93.2694305402732,
+        "filter_mode": "normal",
+        "colors": [
+            116.6171875,
+            71.9921875,
+            32.3671875
+        ]
+    },
+    "composter_side.png": {
+        "face": "side",
+        "smoothness": 86.42097645866725,
+        "filter_mode": "normal",
+        "colors": [
+            112.078125,
+            70.30859375,
+            31.93359375
+        ]
+    },
+    "copper_block.png": {
+        "face": "solid",
+        "smoothness": 94.48856493579795,
+        "filter_mode": "normal",
+        "colors": [
+            192.41796875,
+            107.65625,
+            79.8203125
+        ]
+    },
+    "copper_bulb.png": {
+        "face": "solid",
+        "smoothness": 88.08174871903229,
+        "filter_mode": "normal",
+        "colors": [
+            156.23828125,
+            86.90234375,
+            57.390625
+        ]
+    },
+    "copper_bulb_lit.png": {
+        "face": "solid",
+        "smoothness": 81.1998481683719,
+        "filter_mode": "normal",
+        "colors": [
+            215.96875,
+            150.5234375,
+            106.703125
+        ]
+    },
+    "copper_ore.png": {
+        "face": "solid",
+        "smoothness": 93.54807480550684,
+        "filter_mode": "normal",
+        "colors": [
+            124.71875,
+            125.6875,
+            120.046875
+        ]
+    },
+    "cracked_deepslate_bricks.png": {
+        "face": "solid",
+        "smoothness": 93.08691359279048,
+        "filter_mode": "normal",
+        "colors": [
+            64.98046875,
+            64.8984375,
+            65.25
+        ]
+    },
+    "cracked_deepslate_tiles.png": {
+        "face": "solid",
+        "smoothness": 94.59302225864556,
+        "filter_mode": "normal",
+        "colors": [
+            52.62890625,
+            52.51171875,
+            52.74609375
+        ]
+    },
+    "cracked_nether_bricks.png": {
+        "face": "solid",
+        "smoothness": 96.65425884581872,
+        "filter_mode": "normal",
+        "colors": [
+            40.37109375,
+            20.03515625,
+            23.95703125
+        ]
+    },
+    "cracked_polished_blackstone_bricks.png": {
+        "face": "solid",
+        "smoothness": 94.2145335417614,
+        "filter_mode": "normal",
+        "colors": [
+            44.0390625,
+            37.6171875,
+            43.94140625
+        ]
+    },
+    "cracked_stone_bricks.png": {
+        "face": "solid",
+        "smoothness": 93.5809124955829,
+        "filter_mode": "normal",
+        "colors": [
+            118.32421875,
+            117.66015625,
+            118.32421875
+        ]
+    },
+    "crafting_table_front.png": {
+        "face": "side",
+        "smoothness": 76.73102536123947,
+        "filter_mode": "normal",
+        "colors": [
+            129.234375,
+            105.55859375,
+            70.3359375
+        ]
+    },
+    "crafting_table_side.png": {
+        "face": "side",
+        "smoothness": 80.03842932675823,
+        "filter_mode": "normal",
+        "colors": [
+            128.578125,
+            102.6171875,
+            63.19921875
+        ]
+    },
+    "crafting_table_top.png": {
+        "face": "top",
+        "smoothness": 84.48378986919428,
+        "filter_mode": "normal",
+        "colors": [
+            119.78125,
+            73.2421875,
+            42.4453125
+        ]
+    },
+    "crimson_nylium.png": {
+        "face": "top",
+        "smoothness": 94.03445520605516,
+        "filter_mode": "normal",
+        "colors": [
+            130.9375,
+            31.4296875,
+            31.45703125
+        ]
+    },
+    "crimson_nylium_side.png": {
+        "face": "side",
+        "smoothness": 94.0631554754685,
+        "filter_mode": "normal",
+        "colors": [
+            107.24609375,
+            26.9296875,
+            26.6640625
+        ]
+    },
+    "crimson_planks.png": {
+        "face": "solid",
+        "smoothness": 94.23881415512847,
+        "filter_mode": "normal",
+        "colors": [
+            101.03515625,
+            48.78125,
+            70.56640625
+        ]
+    },
+    "crimson_stem.png": {
+        "face": "solid",
+        "smoothness": 96.95053674992575,
+        "filter_mode": "normal",
+        "colors": [
+            93.4375,
+            26.140625,
+            30.40625
+        ]
+    },
+    "crimson_stem_top.png": {
+        "face": "solid",
+        "smoothness": 94.7579331095268,
+        "filter_mode": "normal",
+        "colors": [
+            112.69140625,
+            49.58203125,
+            70.1328125
+        ]
+    },
+    "crying_obsidian.png": {
+        "face": "solid",
+        "smoothness": 93.91612272627266,
+        "filter_mode": "normal",
+        "colors": [
+            32.5859375,
+            10.08203125,
+            60.4453125
+        ]
+    },
+    "cut_copper.png": {
+        "face": "solid",
+        "smoothness": 92.18124826532164,
+        "filter_mode": "normal",
+        "colors": [
+            191.171875,
+            106.8671875,
+            80.56640625
+        ]
+    },
+    "cut_red_sandstone.png": {
+        "face": "side",
+        "smoothness": 95.67508650987403,
+        "filter_mode": "normal",
+        "colors": [
+            189.30859375,
+            101.7578125,
+            31.76171875
+        ]
+    },
+    "cut_sandstone.png": {
+        "face": "side",
+        "smoothness": 94.72711426824522,
+        "filter_mode": "normal",
+        "colors": [
+            217.80859375,
+            206.4453125,
+            159.8125
+        ]
+    },
+    "cyan_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.7885214052644,
+        "filter_mode": "normal",
+        "colors": [
+            21.4453125,
+            119.21875,
+            136.1875
+        ]
+    },
+    "cyan_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.46626454990573,
+        "filter_mode": "normal",
+        "colors": [
+            36.6484375,
+            147.9765625,
+            157.16015625
+        ]
+    },
+    "cyan_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 87.31048964384435,
+        "filter_mode": "normal",
+        "colors": [
+            52.25,
+            118.71875,
+            125.33203125
+        ]
+    },
+    "cyan_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.02704021260034,
+        "filter_mode": "normal",
+        "colors": [
+            20.2109375,
+            121.34375,
+            135.08203125
+        ]
+    },
+    "cyan_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.33361825323136,
+        "filter_mode": "normal",
+        "colors": [
+            86.71484375,
+            91.01171875,
+            91.00390625
+        ]
+    },
+    "cyan_wool.png": {
+        "face": "solid",
+        "smoothness": 97.54396586362662,
+        "filter_mode": "normal",
+        "colors": [
+            21.24609375,
+            137.7265625,
+            145.3515625
+        ]
+    },
+    "dark_oak_log.png": {
+        "face": "solid",
+        "smoothness": 97.08636103716415,
+        "filter_mode": "normal",
+        "colors": [
+            60.39453125,
+            46.55859375,
+            26.15625
+        ]
+    },
+    "dark_oak_log_top.png": {
+        "face": "solid",
+        "smoothness": 97.50094448211638,
+        "filter_mode": "normal",
+        "colors": [
+            67.66796875,
+            45.109375,
+            22.3671875
+        ]
+    },
+    "dark_oak_planks.png": {
+        "face": "solid",
+        "smoothness": 96.20960612125006,
+        "filter_mode": "normal",
+        "colors": [
+            66.66015625,
+            43.09765625,
+            20.21875
+        ]
+    },
+    "dark_prismarine.png": {
+        "face": "solid",
+        "smoothness": 92.9683518494082,
+        "filter_mode": "normal",
+        "colors": [
+            51.86328125,
+            91.63671875,
+            75.94921875
+        ]
+    },
+    "dead_brain_coral_block.png": {
+        "face": "solid",
+        "smoothness": 92.2911636603983,
+        "filter_mode": "normal",
+        "colors": [
+            124.33203125,
+            117.51953125,
+            114.17578125
+        ]
+    },
+    "dead_bubble_coral_block.png": {
+        "face": "solid",
+        "smoothness": 92.11389599241004,
+        "filter_mode": "normal",
+        "colors": [
+            131.84765625,
+            123.54296875,
+            119.4140625
+        ]
+    },
+    "dead_fire_coral_block.png": {
+        "face": "solid",
+        "smoothness": 93.55224361361368,
+        "filter_mode": "normal",
+        "colors": [
+            131.63671875,
+            123.73046875,
+            119.734375
+        ]
+    },
+    "dead_horn_coral_block.png": {
+        "face": "solid",
+        "smoothness": 91.04814990335515,
+        "filter_mode": "normal",
+        "colors": [
+            133.609375,
+            126.22265625,
+            122.2890625
+        ]
+    },
+    "dead_tube_coral_block.png": {
+        "face": "solid",
+        "smoothness": 92.79353811656608,
+        "filter_mode": "normal",
+        "colors": [
+            130.4921875,
+            123.1953125,
+            119.67578125
+        ]
+    },
+    "deepslate.png": {
+        "face": "solid",
+        "smoothness": 91.91506311028107,
+        "filter_mode": "normal",
+        "colors": [
+            80.1328125,
+            80.1328125,
+            82.5859375
+        ]
+    },
+    "deepslate_bricks.png": {
+        "face": "solid",
+        "smoothness": 93.0399521641589,
+        "filter_mode": "normal",
+        "colors": [
+            70.96875,
+            70.91015625,
+            71.2734375
+        ]
+    },
+    "deepslate_coal_ore.png": {
+        "face": "solid",
+        "smoothness": 89.62541728086241,
+        "filter_mode": "normal",
+        "colors": [
+            74.41796875,
+            74.45703125,
+            76.04296875
+        ]
+    },
+    "deepslate_copper_ore.png": {
+        "face": "solid",
+        "smoothness": 89.83002178757164,
+        "filter_mode": "normal",
+        "colors": [
+            92.15234375,
+            93.12109375,
+            89.26953125
+        ]
+    },
+    "deepslate_diamond_ore.png": {
+        "face": "solid",
+        "smoothness": 87.00298679602834,
+        "filter_mode": "normal",
+        "colors": [
+            83.34765625,
+            106.42578125,
+            106.9375
+        ]
+    },
+    "deepslate_emerald_ore.png": {
+        "face": "solid",
+        "smoothness": 87.76310359290487,
+        "filter_mode": "normal",
+        "colors": [
+            78.44140625,
+            104.4609375,
+            87.7890625
+        ]
+    },
+    "deepslate_gold_ore.png": {
+        "face": "solid",
+        "smoothness": 84.65539477185362,
+        "filter_mode": "normal",
+        "colors": [
+            115.2421875,
+            102.90625,
+            78.16796875
+        ]
+    },
+    "deepslate_iron_ore.png": {
+        "face": "solid",
+        "smoothness": 86.75765160126558,
+        "filter_mode": "normal",
+        "colors": [
+            106.73046875,
+            99.6875,
+            94.70703125
+        ]
+    },
+    "deepslate_lapis_ore.png": {
+        "face": "solid",
+        "smoothness": 91.54666966252229,
+        "filter_mode": "normal",
+        "colors": [
+            79.91796875,
+            90.796875,
+            115.3046875
+        ]
+    },
+    "deepslate_redstone_ore.png": {
+        "face": "solid",
+        "smoothness": 91.13285937782494,
+        "filter_mode": "normal",
+        "colors": [
+            104.71484375,
+            73.30078125,
+            74.82421875
+        ]
+    },
+    "deepslate_tiles.png": {
+        "face": "solid",
+        "smoothness": 94.55110815910844,
+        "filter_mode": "normal",
+        "colors": [
+            54.9140625,
+            54.80078125,
+            55.0703125
+        ]
+    },
+    "deepslate_top.png": {
+        "face": "solid",
+        "smoothness": 93.59786807920194,
+        "filter_mode": "normal",
+        "colors": [
+            87.19921875,
+            87.19921875,
+            89.43359375
+        ]
+    },
+    "diamond_block.png": {
+        "face": "solid",
+        "smoothness": 91.12383623914934,
+        "filter_mode": "normal",
+        "colors": [
+            98.1640625,
+            237.13671875,
+            228.12109375
+        ]
+    },
+    "diamond_ore.png": {
+        "face": "solid",
+        "smoothness": 92.43299690425158,
+        "filter_mode": "normal",
+        "colors": [
+            121.23828125,
+            141.25390625,
+            140.671875
+        ]
+    },
+    "diorite.png": {
+        "face": "solid",
+        "smoothness": 86.62366604103306,
+        "filter_mode": "normal",
+        "colors": [
+            188.71875,
+            188.453125,
+            188.98046875
+        ]
+    },
+    "dirt.png": {
+        "face": "solid",
+        "smoothness": 92.22182770952713,
+        "filter_mode": "normal",
+        "colors": [
+            134.25,
+            96.296875,
+            67.0
+        ]
+    },
+    "dirt_path_top.png": {
+        "face": "top",
+        "smoothness": 96.86373866466067,
+        "filter_mode": "normal",
+        "colors": [
+            148.29296875,
+            121.6953125,
+            65.328125
+        ]
+    },
+    "dispenser_front.png": {
+        "face": "solid",
+        "smoothness": 84.49091084004543,
+        "filter_mode": "normal",
+        "colors": [
+            122.25390625,
+            121.76171875,
+            121.76171875
+        ]
+    },
+    "dispenser_front_vertical.png": {
+        "face": "solid",
+        "smoothness": 89.52256235707077,
+        "filter_mode": "normal",
+        "colors": [
+            98.55859375,
+            97.92578125,
+            97.92578125
+        ]
+    },
+    "dried_kelp_bottom.png": {
+        "face": "bottom",
+        "smoothness": 89.80908992335743,
+        "filter_mode": "normal",
+        "colors": [
+            50.3203125,
+            58.64453125,
+            38.90234375
+        ]
+    },
+    "dried_kelp_side.png": {
+        "face": "side",
+        "smoothness": 94.24202033145289,
+        "filter_mode": "normal",
+        "colors": [
+            38.375,
+            48.87109375,
+            29.54296875
+        ]
+    },
+    "dried_kelp_top.png": {
+        "face": "top",
+        "smoothness": 89.80908992335743,
+        "filter_mode": "normal",
+        "colors": [
+            50.3203125,
+            58.64453125,
+            38.90234375
+        ]
+    },
+    "dripstone_block.png": {
+        "face": "solid",
+        "smoothness": 93.18088908297536,
+        "filter_mode": "normal",
+        "colors": [
+            134.453125,
+            107.5546875,
+            92.515625
+        ]
+    },
+    "dropper_front.png": {
+        "face": "solid",
+        "smoothness": 84.51216398857649,
+        "filter_mode": "normal",
+        "colors": [
+            122.4453125,
+            121.953125,
+            121.953125
+        ]
+    },
+    "dropper_front_vertical.png": {
+        "face": "solid",
+        "smoothness": 89.0852277190866,
+        "filter_mode": "normal",
+        "colors": [
+            97.671875,
+            96.9609375,
+            96.9609375
+        ]
+    },
+    "emerald_block.png": {
+        "face": "solid",
+        "smoothness": 91.59412965761607,
+        "filter_mode": "normal",
+        "colors": [
+            42.37890625,
+            203.44921875,
+            87.80078125
+        ]
+    },
+    "emerald_ore.png": {
+        "face": "solid",
+        "smoothness": 91.73029795779529,
+        "filter_mode": "normal",
+        "colors": [
+            108.2890625,
+            136.359375,
+            115.66015625
+        ]
+    },
+    "end_stone.png": {
+        "face": "solid",
+        "smoothness": 93.5029451548587,
+        "filter_mode": "normal",
+        "colors": [
+            219.50390625,
+            222.9375,
+            158.33984375
+        ]
+    },
+    "end_stone_bricks.png": {
+        "face": "solid",
+        "smoothness": 92.90120121098374,
+        "filter_mode": "normal",
+        "colors": [
+            218.44921875,
+            224.03515625,
+            162.2109375
+        ]
+    },
+    "exposed_chiseled_copper.png": {
+        "face": "solid",
+        "smoothness": 93.72006451563877,
+        "filter_mode": "normal",
+        "colors": [
+            154.6328125,
+            119.37890625,
+            100.79296875
+        ]
+    },
+    "exposed_copper.png": {
+        "face": "solid",
+        "smoothness": 95.37042931984115,
+        "filter_mode": "normal",
+        "colors": [
+            161.078125,
+            125.703125,
+            103.93359375
+        ]
+    },
+    "exposed_copper_bulb.png": {
+        "face": "solid",
+        "smoothness": 90.1204640607039,
+        "filter_mode": "normal",
+        "colors": [
+            135.1015625,
+            107.515625,
+            89.9140625
+        ]
+    },
+    "exposed_copper_bulb_lit.png": {
+        "face": "solid",
+        "smoothness": 86.62158627055605,
+        "filter_mode": "normal",
+        "colors": [
+            194.33203125,
+            145.26171875,
+            100.2265625
+        ]
+    },
+    "exposed_cut_copper.png": {
+        "face": "solid",
+        "smoothness": 93.84336711075235,
+        "filter_mode": "normal",
+        "colors": [
+            154.66015625,
+            121.75390625,
+            101.265625
+        ]
+    },
+    "fire_coral_block.png": {
+        "face": "solid",
+        "smoothness": 95.17836184221895,
+        "filter_mode": "normal",
+        "colors": [
+            163.70703125,
+            35.1640625,
+            46.87109375
+        ]
+    },
+    "fletching_table_front.png": {
+        "face": "side",
+        "smoothness": 83.5853286388492,
+        "filter_mode": "normal",
+        "colors": [
+            173.31640625,
+            155.06640625,
+            111.09375
+        ]
+    },
+    "fletching_table_side.png": {
+        "face": "side",
+        "smoothness": 84.7809315680887,
+        "filter_mode": "normal",
+        "colors": [
+            191.55078125,
+            167.046875,
+            129.58984375
+        ]
+    },
+    "fletching_table_top.png": {
+        "face": "top",
+        "smoothness": 91.90292583623254,
+        "filter_mode": "normal",
+        "colors": [
+            197.12890625,
+            180.44921875,
+            133.40625
+        ]
+    },
+    "furnace_front.png": {
+        "face": "side",
+        "smoothness": 81.9796273264926,
+        "filter_mode": "normal",
+        "colors": [
+            91.73046875,
+            91.24609375,
+            91.24609375
+        ]
+    },
+    "furnace_side.png": {
+        "face": "side",
+        "smoothness": 88.40999607525174,
+        "filter_mode": "normal",
+        "colors": [
+            120.6171875,
+            120.078125,
+            120.078125
+        ]
+    },
+    "furnace_top.png": {
+        "face": "top",
+        "smoothness": 90.27703037596038,
+        "filter_mode": "normal",
+        "colors": [
+            110.37109375,
+            109.73046875,
+            109.73046875
+        ]
+    },
+    "gilded_blackstone.png": {
+        "face": "solid",
+        "smoothness": 91.12135626046623,
+        "filter_mode": "normal",
+        "colors": [
+            55.60546875,
+            42.93359375,
+            38.33203125
+        ]
+    },
+    "glowstone.png": {
+        "face": "solid",
+        "smoothness": 74.30784255859741,
+        "filter_mode": "normal",
+        "colors": [
+            171.765625,
+            131.18359375,
+            84.30078125
+        ]
+    },
+    "gold_block.png": {
+        "face": "solid",
+        "smoothness": 92.60897343048016,
+        "filter_mode": "normal",
+        "colors": [
+            246.41796875,
+            208.3203125,
+            61.625
+        ]
+    },
+    "gold_ore.png": {
+        "face": "solid",
+        "smoothness": 90.20898239586006,
+        "filter_mode": "normal",
+        "colors": [
+            145.140625,
+            133.8828125,
+            106.53515625
+        ]
+    },
+    "granite.png": {
+        "face": "solid",
+        "smoothness": 93.23043122349468,
+        "filter_mode": "normal",
+        "colors": [
+            149.4296875,
+            103.2421875,
+            85.97265625
+        ]
+    },
+    "grass_block_side.png": {
+        "face": "side",
+        "smoothness": 91.73170979199449,
+        "filter_mode": "normal",
+        "colors": [
+            126.796875,
+            107.12890625,
+            65.59375
+        ]
+    },
+    "grass_block_snow.png": {
+        "face": "side",
+        "smoothness": 90.33289834408814,
+        "filter_mode": "normal",
+        "colors": [
+            169.94921875,
+            151.08984375,
+            133.0390625
+        ]
+    },
+    "grass_block_top.png": {
+        "face": "top",
+        "smoothness": 94.7868248450518,
+        "filter_mode": "normal",
+        "colors": [
+            147.43359375,
+            147.43359375,
+            147.43359375
+        ]
+    },
+    "gravel.png": {
+        "face": "solid",
+        "smoothness": 94.05000199782964,
+        "filter_mode": "normal",
+        "colors": [
+            131.93359375,
+            127.4609375,
+            126.50390625
+        ]
+    },
+    "gray_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.82950983719455,
+        "filter_mode": "normal",
+        "colors": [
+            54.6171875,
+            57.6171875,
+            61.6171875
+        ]
+    },
+    "gray_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 98.37758026862296,
+        "filter_mode": "normal",
+        "colors": [
+            76.9453125,
+            81.10546875,
+            84.9140625
+        ]
+    },
+    "gray_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 88.23361789467666,
+        "filter_mode": "normal",
+        "colors": [
+            83.09765625,
+            90.30859375,
+            93.6484375
+        ]
+    },
+    "gray_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.91670375311313,
+        "filter_mode": "normal",
+        "colors": [
+            55.31640625,
+            58.8125,
+            62.46875
+        ]
+    },
+    "gray_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.60558219696313,
+        "filter_mode": "normal",
+        "colors": [
+            57.78515625,
+            42.4140625,
+            35.5625
+        ]
+    },
+    "gray_wool.png": {
+        "face": "solid",
+        "smoothness": 97.89468822716684,
+        "filter_mode": "normal",
+        "colors": [
+            62.74609375,
+            68.234375,
+            71.5546875
+        ]
+    },
+    "green_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.81703198999595,
+        "filter_mode": "normal",
+        "colors": [
+            73.40625,
+            91.33984375,
+            36.4921875
+        ]
+    },
+    "green_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.9636627136688,
+        "filter_mode": "normal",
+        "colors": [
+            97.1875,
+            119.12109375,
+            44.56640625
+        ]
+    },
+    "green_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 84.51332656868446,
+        "filter_mode": "normal",
+        "colors": [
+            117.015625,
+            142.30859375,
+            67.421875
+        ]
+    },
+    "green_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 98.35034092537647,
+        "filter_mode": "normal",
+        "colors": [
+            79.13671875,
+            100.86328125,
+            31.6796875
+        ]
+    },
+    "green_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.51783102601887,
+        "filter_mode": "normal",
+        "colors": [
+            76.0078125,
+            83.2890625,
+            42.3359375
+        ]
+    },
+    "green_wool.png": {
+        "face": "solid",
+        "smoothness": 97.0466465535447,
+        "filter_mode": "normal",
+        "colors": [
+            84.83203125,
+            109.53515625,
+            27.50390625
+        ]
+    },
+    "hay_block_side.png": {
+        "face": "solid",
+        "smoothness": 92.9467355840942,
+        "filter_mode": "normal",
+        "colors": [
+            166.21484375,
+            136.453125,
+            38.125
+        ]
+    },
+    "hay_block_top.png": {
+        "face": "solid",
+        "smoothness": 94.85328689495412,
+        "filter_mode": "normal",
+        "colors": [
+            165.95703125,
+            139.12109375,
+            12.4375
+        ]
+    },
+    "honeycomb_block.png": {
+        "face": "solid",
+        "smoothness": 87.13310371321876,
+        "filter_mode": "normal",
+        "colors": [
+            229.34765625,
+            148.41015625,
+            29.5390625
+        ]
+    },
+    "horn_coral_block.png": {
+        "face": "solid",
+        "smoothness": 91.80272406737538,
+        "filter_mode": "normal",
+        "colors": [
+            216.01171875,
+            199.9453125,
+            66.0
+        ]
+    },
+    "iron_block.png": {
+        "face": "solid",
+        "smoothness": 93.5416284806405,
+        "filter_mode": "normal",
+        "colors": [
+            220.1171875,
+            220.0078125,
+            220.0078125
+        ]
+    },
+    "iron_ore.png": {
+        "face": "solid",
+        "smoothness": 93.1481084767896,
+        "filter_mode": "normal",
+        "colors": [
+            136.33984375,
+            129.296875,
+            122.76953125
+        ]
+    },
+    "jack_o_lantern.png": {
+        "face": "side",
+        "smoothness": 84.98725300142587,
+        "filter_mode": "normal",
+        "colors": [
+            214.56640625,
+            152.4453125,
+            52.90625
+        ]
+    },
+    "jukebox_side.png": {
+        "face": "side",
+        "smoothness": 92.3793281141232,
+        "filter_mode": "normal",
+        "colors": [
+            88.7578125,
+            58.94921875,
+            40.7890625
+        ]
+    },
+    "jukebox_top.png": {
+        "face": "top",
+        "smoothness": 91.00877916416206,
+        "filter_mode": "normal",
+        "colors": [
+            93.78125,
+            64.4140625,
+            47.3125
+        ]
+    },
+    "jungle_log.png": {
+        "face": "solid",
+        "smoothness": 95.7404450645532,
+        "filter_mode": "normal",
+        "colors": [
+            85.21484375,
+            67.98046875,
+            25.1796875
+        ]
+    },
+    "jungle_log_top.png": {
+        "face": "solid",
+        "smoothness": 90.58002391721583,
+        "filter_mode": "normal",
+        "colors": [
+            149.5625,
+            109.3125,
+            70.64453125
+        ]
+    },
+    "jungle_planks.png": {
+        "face": "solid",
+        "smoothness": 91.21451130791868,
+        "filter_mode": "normal",
+        "colors": [
+            160.44140625,
+            115.19140625,
+            80.79296875
+        ]
+    },
+    "lapis_block.png": {
+        "face": "solid",
+        "smoothness": 97.32605520429135,
+        "filter_mode": "normal",
+        "colors": [
+            30.6484375,
+            67.37109375,
+            140.109375
+        ]
+    },
+    "lapis_ore.png": {
+        "face": "solid",
+        "smoothness": 90.52487086366173,
+        "filter_mode": "normal",
+        "colors": [
+            107.01171875,
+            117.890625,
+            141.28125
+        ]
+    },
+    "light_blue_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.73189510218484,
+        "filter_mode": "normal",
+        "colors": [
+            35.59765625,
+            137.0390625,
+            198.9140625
+        ]
+    },
+    "light_blue_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 96.39339813903447,
+        "filter_mode": "normal",
+        "colors": [
+            74.28125,
+            180.73046875,
+            213.36328125
+        ]
+    },
+    "light_blue_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 80.44278852135658,
+        "filter_mode": "normal",
+        "colors": [
+            94.54296875,
+            164.6171875,
+            208.921875
+        ]
+    },
+    "light_blue_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 96.2315412567729,
+        "filter_mode": "normal",
+        "colors": [
+            49.296875,
+            163.86328125,
+            212.12890625
+        ]
+    },
+    "light_blue_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.50294518074368,
+        "filter_mode": "normal",
+        "colors": [
+            113.484375,
+            108.53125,
+            137.9921875
+        ]
+    },
+    "light_blue_wool.png": {
+        "face": "solid",
+        "smoothness": 94.63726216484663,
+        "filter_mode": "normal",
+        "colors": [
+            58.0703125,
+            175.046875,
+            217.31640625
+        ]
+    },
+    "light_gray_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.77800699416167,
+        "filter_mode": "normal",
+        "colors": [
+            125.03125,
+            125.03125,
+            115.03125
+        ]
+    },
+    "light_gray_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 96.82815963532936,
+        "filter_mode": "normal",
+        "colors": [
+            154.890625,
+            154.95703125,
+            148.1875
+        ]
+    },
+    "light_gray_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 87.41099097954326,
+        "filter_mode": "normal",
+        "colors": [
+            144.2578125,
+            166.0625,
+            167.953125
+        ]
+    },
+    "light_gray_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 95.21379230717406,
+        "filter_mode": "normal",
+        "colors": [
+            124.41796875,
+            124.41796875,
+            115.4140625
+        ]
+    },
+    "light_gray_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.40989545056831,
+        "filter_mode": "normal",
+        "colors": [
+            135.25390625,
+            106.8828125,
+            97.5
+        ]
+    },
+    "light_gray_wool.png": {
+        "face": "solid",
+        "smoothness": 96.64773602521974,
+        "filter_mode": "normal",
+        "colors": [
+            142.03125,
+            142.1640625,
+            134.6015625
+        ]
+    },
+    "lime_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.71935980580157,
+        "filter_mode": "normal",
+        "colors": [
+            94.08984375,
+            168.8046875,
+            24.5
+        ]
+    },
+    "lime_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.68247477013797,
+        "filter_mode": "normal",
+        "colors": [
+            125.38671875,
+            189.2734375,
+            41.90625
+        ]
+    },
+    "lime_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 87.2683096092416,
+        "filter_mode": "normal",
+        "colors": [
+            162.94921875,
+            197.66796875,
+            55.2109375
+        ]
+    },
+    "lime_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 95.82679717236677,
+        "filter_mode": "normal",
+        "colors": [
+            99.76953125,
+            172.6328125,
+            23.0078125
+        ]
+    },
+    "lime_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.24560227824163,
+        "filter_mode": "normal",
+        "colors": [
+            103.53515625,
+            117.67578125,
+            52.796875
+        ]
+    },
+    "lime_wool.png": {
+        "face": "solid",
+        "smoothness": 96.75552337936193,
+        "filter_mode": "normal",
+        "colors": [
+            112.2109375,
+            185.1953125,
+            25.796875
+        ]
+    },
+    "lodestone_side.png": {
+        "face": "side",
+        "smoothness": 89.38282886403479,
+        "filter_mode": "normal",
+        "colors": [
+            119.42578125,
+            119.88671875,
+            123.0390625
+        ]
+    },
+    "lodestone_top.png": {
+        "face": "top",
+        "smoothness": 91.83759684721686,
+        "filter_mode": "normal",
+        "colors": [
+            147.0390625,
+            149.1484375,
+            152.8046875
+        ]
+    },
+    "loom_bottom.png": {
+        "face": "bottom",
+        "smoothness": 94.28453166493064,
+        "filter_mode": "normal",
+        "colors": [
+            76.19921875,
+            60.11328125,
+            36.01953125
+        ]
+    },
+    "loom_front.png": {
+        "face": "side",
+        "smoothness": 89.40010075866583,
+        "filter_mode": "normal",
+        "colors": [
+            148.06640625,
+            118.90625,
+            82.14453125
+        ]
+    },
+    "loom_side.png": {
+        "face": "side",
+        "smoothness": 87.37709628167575,
+        "filter_mode": "normal",
+        "colors": [
+            145.92578125,
+            101.28125,
+            72.5
+        ]
+    },
+    "loom_top.png": {
+        "face": "top",
+        "smoothness": 87.92897498264341,
+        "filter_mode": "normal",
+        "colors": [
+            142.1796875,
+            119.3203125,
+            91.8046875
+        ]
+    },
+    "magenta_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.72700028768926,
+        "filter_mode": "normal",
+        "colors": [
+            169.20703125,
+            48.4765625,
+            159.2109375
+        ]
+    },
+    "magenta_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 96.76250170708946,
+        "filter_mode": "normal",
+        "colors": [
+            192.7265625,
+            83.80859375,
+            184.63671875
+        ]
+    },
+    "magenta_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 89.40405560345872,
+        "filter_mode": "normal",
+        "colors": [
+            208.26953125,
+            100.41796875,
+            191.91015625
+        ]
+    },
+    "magenta_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.05523226394907,
+        "filter_mode": "normal",
+        "colors": [
+            173.85546875,
+            54.078125,
+            163.5703125
+        ]
+    },
+    "magenta_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.2312115896589,
+        "filter_mode": "normal",
+        "colors": [
+            149.66796875,
+            88.1015625,
+            108.6796875
+        ]
+    },
+    "magenta_wool.png": {
+        "face": "solid",
+        "smoothness": 95.55886452721312,
+        "filter_mode": "normal",
+        "colors": [
+            189.54296875,
+            68.765625,
+            179.91796875
+        ]
+    },
+    "magma.png": {
+        "face": "solid",
+        "smoothness": 82.7806299344656,
+        "filter_mode": "normal",
+        "colors": [
+            141.90625,
+            62.64453125,
+            30.96875
+        ]
+    },
+    "mangrove_log.png": {
+        "face": "solid",
+        "smoothness": 96.3944521657752,
+        "filter_mode": "normal",
+        "colors": [
+            83.61328125,
+            66.74609375,
+            41.140625
+        ]
+    },
+    "mangrove_log_top.png": {
+        "face": "solid",
+        "smoothness": 96.17347749878226,
+        "filter_mode": "normal",
+        "colors": [
+            102.82421875,
+            48.75,
+            42.359375
+        ]
+    },
+    "mangrove_planks.png": {
+        "face": "solid",
+        "smoothness": 94.8842304267543,
+        "filter_mode": "normal",
+        "colors": [
+            117.953125,
+            54.08203125,
+            48.6640625
+        ]
+    },
+    "melon_side.png": {
+        "face": "side",
+        "smoothness": 90.45841408293597,
+        "filter_mode": "normal",
+        "colors": [
+            114.3515625,
+            146.19140625,
+            30.21875
+        ]
+    },
+    "melon_top.png": {
+        "face": "top",
+        "smoothness": 91.88277556155839,
+        "filter_mode": "normal",
+        "colors": [
+            111.05078125,
+            144.6796875,
+            30.5078125
+        ]
+    },
+    "mossy_cobblestone.png": {
+        "face": "solid",
+        "smoothness": 91.40246249307827,
+        "filter_mode": "normal",
+        "colors": [
+            110.109375,
+            118.5,
+            94.9375
+        ]
+    },
+    "mossy_stone_bricks.png": {
+        "face": "solid",
+        "smoothness": 94.02057666586259,
+        "filter_mode": "normal",
+        "colors": [
+            115.43359375,
+            121.125,
+            105.140625
+        ]
+    },
+    "moss_block.png": {
+        "face": "solid",
+        "smoothness": 95.36492307138319,
+        "filter_mode": "normal",
+        "colors": [
+            89.078125,
+            109.7265625,
+            45.3984375
+        ]
+    },
+    "mud.png": {
+        "face": "solid",
+        "smoothness": 97.28455213058994,
+        "filter_mode": "normal",
+        "colors": [
+            60.1015625,
+            57.48828125,
+            60.62890625
+        ]
+    },
+    "muddy_mangrove_roots_side.png": {
+        "face": "solid",
+        "smoothness": 96.90257230984301,
+        "filter_mode": "normal",
+        "colors": [
+            68.36328125,
+            58.7421875,
+            48.41015625
+        ]
+    },
+    "muddy_mangrove_roots_top.png": {
+        "face": "solid",
+        "smoothness": 96.58725345635155,
+        "filter_mode": "normal",
+        "colors": [
+            70.03515625,
+            58.64453125,
+            45.13671875
+        ]
+    },
+    "mud_bricks.png": {
+        "face": "solid",
+        "smoothness": 94.25404225853636,
+        "filter_mode": "normal",
+        "colors": [
+            137.14453125,
+            103.7734375,
+            79.07421875
+        ]
+    },
+    "mushroom_block_inside.png": {
+        "face": "solid",
+        "smoothness": 97.42833526462604,
+        "filter_mode": "normal",
+        "colors": [
+            201.625,
+            170.1640625,
+            120.18359375
+        ]
+    },
+    "mushroom_stem.png": {
+        "face": "solid",
+        "smoothness": 97.86301940461536,
+        "filter_mode": "normal",
+        "colors": [
+            203.19921875,
+            196.640625,
+            185.6015625
+        ]
+    },
+    "mycelium_side.png": {
+        "face": "side",
+        "smoothness": 91.52846052907677,
+        "filter_mode": "normal",
+        "colors": [
+            113.53125,
+            87.6171875,
+            71.87109375
+        ]
+    },
+    "mycelium_top.png": {
+        "face": "top",
+        "smoothness": 97.2702998770908,
+        "filter_mode": "normal",
+        "colors": [
+            111.1796875,
+            98.578125,
+            101.328125
+        ]
+    },
+    "netherite_block.png": {
+        "face": "solid",
+        "smoothness": 95.01881087330419,
+        "filter_mode": "normal",
+        "colors": [
+            66.51953125,
+            61.49609375,
+            63.87890625
+        ]
+    },
+    "netherrack.png": {
+        "face": "solid",
+        "smoothness": 94.8523659077896,
+        "filter_mode": "normal",
+        "colors": [
+            97.58203125,
+            38.4140625,
+            38.4140625
+        ]
+    },
+    "nether_bricks.png": {
+        "face": "solid",
+        "smoothness": 96.62423945193709,
+        "filter_mode": "normal",
+        "colors": [
+            44.29296875,
+            21.87109375,
+            26.09765625
+        ]
+    },
+    "nether_gold_ore.png": {
+        "face": "solid",
+        "smoothness": 86.47337679784421,
+        "filter_mode": "normal",
+        "colors": [
+            115.375,
+            54.9609375,
+            42.05078125
+        ]
+    },
+    "nether_quartz_ore.png": {
+        "face": "solid",
+        "smoothness": 83.85170830005224,
+        "filter_mode": "normal",
+        "colors": [
+            117.828125,
+            65.6640625,
+            62.390625
+        ]
+    },
+    "nether_wart_block.png": {
+        "face": "solid",
+        "smoothness": 96.86287629211259,
+        "filter_mode": "normal",
+        "colors": [
+            114.80859375,
+            2.921875,
+            2.15625
+        ]
+    },
+    "note_block.png": {
+        "face": "solid",
+        "smoothness": 92.3793281141232,
+        "filter_mode": "normal",
+        "colors": [
+            88.7578125,
+            58.94921875,
+            40.7890625
+        ]
+    },
+    "oak_log.png": {
+        "face": "solid",
+        "smoothness": 92.87255970444396,
+        "filter_mode": "normal",
+        "colors": [
+            109.09375,
+            85.125,
+            50.6875
+        ]
+    },
+    "oak_log_top.png": {
+        "face": "solid",
+        "smoothness": 89.80603284537358,
+        "filter_mode": "normal",
+        "colors": [
+            151.43359375,
+            121.6484375,
+            73.015625
+        ]
+    },
+    "oak_planks.png": {
+        "face": "solid",
+        "smoothness": 91.02035292828377,
+        "filter_mode": "normal",
+        "colors": [
+            162.203125,
+            130.8203125,
+            78.62890625
+        ]
+    },
+    "observer_back.png": {
+        "face": "solid",
+        "smoothness": 89.22259371211223,
+        "filter_mode": "normal",
+        "colors": [
+            71.9453125,
+            69.765625,
+            69.76953125
+        ]
+    },
+    "observer_front.png": {
+        "face": "solid",
+        "smoothness": 79.49520839309247,
+        "filter_mode": "normal",
+        "colors": [
+            103.625,
+            103.359375,
+            103.359375
+        ]
+    },
+    "observer_side.png": {
+        "face": "solid",
+        "smoothness": 90.34829012814994,
+        "filter_mode": "normal",
+        "colors": [
+            70.1875,
+            68.98828125,
+            68.98828125
+        ]
+    },
+    "observer_top.png": {
+        "face": "solid",
+        "smoothness": 88.36131010513486,
+        "filter_mode": "normal",
+        "colors": [
+            98.43359375,
+            98.43359375,
+            98.43359375
+        ]
+    },
+    "obsidian.png": {
+        "face": "solid",
+        "smoothness": 94.67592903237762,
+        "filter_mode": "normal",
+        "colors": [
+            15.13671875,
+            10.6171875,
+            24.55078125
+        ]
+    },
+    "ochre_froglight_side.png": {
+        "face": "solid",
+        "smoothness": 94.22183377477133,
+        "filter_mode": "normal",
+        "colors": [
+            245.453125,
+            233.296875,
+            181.88671875
+        ]
+    },
+    "ochre_froglight_top.png": {
+        "face": "solid",
+        "smoothness": 96.28513890419671,
+        "filter_mode": "normal",
+        "colors": [
+            250.7109375,
+            245.1484375,
+            206.5
+        ]
+    },
+    "orange_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.70842801448455,
+        "filter_mode": "normal",
+        "colors": [
+            224.34375,
+            97.13671875,
+            0.6328125
+        ]
+    },
+    "orange_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 96.97989749092935,
+        "filter_mode": "normal",
+        "colors": [
+            227.28125,
+            131.859375,
+            31.91015625
+        ]
+    },
+    "orange_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 89.48169153343677,
+        "filter_mode": "normal",
+        "colors": [
+            154.77734375,
+            147.48828125,
+            91.96484375
+        ]
+    },
+    "orange_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 96.97698681340992,
+        "filter_mode": "normal",
+        "colors": [
+            234.09765625,
+            106.41796875,
+            8.74609375
+        ]
+    },
+    "orange_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.25435435703326,
+        "filter_mode": "normal",
+        "colors": [
+            161.59765625,
+            83.87109375,
+            37.671875
+        ]
+    },
+    "orange_wool.png": {
+        "face": "solid",
+        "smoothness": 95.9461536180654,
+        "filter_mode": "normal",
+        "colors": [
+            240.65234375,
+            118.078125,
+            19.51171875
+        ]
+    },
+    "oxidized_chiseled_copper.png": {
+        "face": "solid",
+        "smoothness": 91.52852683860499,
+        "filter_mode": "normal",
+        "colors": [
+            83.54296875,
+            161.90625,
+            132.265625
+        ]
+    },
+    "oxidized_copper.png": {
+        "face": "solid",
+        "smoothness": 94.26783146645141,
+        "filter_mode": "normal",
+        "colors": [
+            82.42578125,
+            162.66796875,
+            132.8671875
+        ]
+    },
+    "oxidized_copper_bulb.png": {
+        "face": "solid",
+        "smoothness": 87.9753018782673,
+        "filter_mode": "normal",
+        "colors": [
+            70.2265625,
+            132.3984375,
+            109.27734375
+        ]
+    },
+    "oxidized_copper_bulb_lit.png": {
+        "face": "solid",
+        "smoothness": 90.82446160468805,
+        "filter_mode": "normal",
+        "colors": [
+            134.5078125,
+            154.484375,
+            104.01953125
+        ]
+    },
+    "oxidized_cut_copper.png": {
+        "face": "solid",
+        "smoothness": 91.77720075227366,
+        "filter_mode": "normal",
+        "colors": [
+            79.71875,
+            153.6171875,
+            126.4296875
+        ]
+    },
+    "packed_ice.png": {
+        "face": "solid",
+        "smoothness": 95.76524958991125,
+        "filter_mode": "normal",
+        "colors": [
+            141.57421875,
+            180.01171875,
+            250.4921875
+        ]
+    },
+    "packed_mud.png": {
+        "face": "solid",
+        "smoothness": 95.9696501387775,
+        "filter_mode": "normal",
+        "colors": [
+            142.4765625,
+            106.73046875,
+            79.88671875
+        ]
+    },
+    "pearlescent_froglight_side.png": {
+        "face": "solid",
+        "smoothness": 93.42264050170301,
+        "filter_mode": "normal",
+        "colors": [
+            235.5,
+            224.98046875,
+            228.515625
+        ]
+    },
+    "pearlescent_froglight_top.png": {
+        "face": "solid",
+        "smoothness": 95.58057218187106,
+        "filter_mode": "normal",
+        "colors": [
+            245.7265625,
+            240.0546875,
+            239.6640625
+        ]
+    },
+    "pink_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.75237783346672,
+        "filter_mode": "normal",
+        "colors": [
+            213.5,
+            101.01171875,
+            142.8671875
+        ]
+    },
+    "pink_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 95.57196205683438,
+        "filter_mode": "normal",
+        "colors": [
+            228.859375,
+            153.328125,
+            181.0546875
+        ]
+    },
+    "pink_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 91.88660883108426,
+        "filter_mode": "normal",
+        "colors": [
+            235.15625,
+            154.984375,
+            181.5625
+        ]
+    },
+    "pink_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 95.61485921028935,
+        "filter_mode": "normal",
+        "colors": [
+            230.44921875,
+            121.84375,
+            157.6875
+        ]
+    },
+    "pink_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.2084286084993,
+        "filter_mode": "normal",
+        "colors": [
+            161.92578125,
+            78.27734375,
+            78.66796875
+        ]
+    },
+    "pink_wool.png": {
+        "face": "solid",
+        "smoothness": 93.97588240626405,
+        "filter_mode": "normal",
+        "colors": [
+            237.9140625,
+            141.37890625,
+            172.3515625
+        ]
+    },
+    "piston_bottom.png": {
+        "face": "bottom",
+        "smoothness": 89.56560571071283,
+        "filter_mode": "normal",
+        "colors": [
+            97.0859375,
+            96.6015625,
+            96.6015625
+        ]
+    },
+    "piston_side.png": {
+        "face": "solid",
+        "smoothness": 88.93712451515657,
+        "filter_mode": "normal",
+        "colors": [
+            109.90234375,
+            104.71484375,
+            96.5234375
+        ]
+    },
+    "piston_top.png": {
+        "face": "solid",
+        "smoothness": 83.62520699873558,
+        "filter_mode": "normal",
+        "colors": [
+            153.18359375,
+            127.5703125,
+            85.171875
+        ]
+    },
+    "piston_top_sticky.png": {
+        "face": "solid",
+        "smoothness": 82.50384349367343,
+        "filter_mode": "normal",
+        "colors": [
+            122.7421875,
+            149.46875,
+            91.55078125
+        ]
+    },
+    "podzol_side.png": {
+        "face": "side",
+        "smoothness": 92.4271964393067,
+        "filter_mode": "normal",
+        "colors": [
+            122.50390625,
+            87.6953125,
+            57.015625
+        ]
+    },
+    "podzol_top.png": {
+        "face": "top",
+        "smoothness": 95.77557813686539,
+        "filter_mode": "normal",
+        "colors": [
+            91.7578125,
+            63.23828125,
+            24.0625
+        ]
+    },
+    "polished_andesite.png": {
+        "face": "solid",
+        "smoothness": 93.19679935970228,
+        "filter_mode": "normal",
+        "colors": [
+            132.2578125,
+            134.75390625,
+            133.99609375
+        ]
+    },
+    "polished_basalt_side.png": {
+        "face": "solid",
+        "smoothness": 94.38255836309725,
+        "filter_mode": "normal",
+        "colors": [
+            88.51953125,
+            88.24609375,
+            91.51953125
+        ]
+    },
+    "polished_basalt_top.png": {
+        "face": "solid",
+        "smoothness": 92.07614883284913,
+        "filter_mode": "normal",
+        "colors": [
+            99.39453125,
+            98.56640625,
+            100.6875
+        ]
+    },
+    "polished_blackstone.png": {
+        "face": "solid",
+        "smoothness": 95.61294441840522,
+        "filter_mode": "normal",
+        "colors": [
+            53.2265625,
+            48.6328125,
+            56.74609375
+        ]
+    },
+    "polished_blackstone_bricks.png": {
+        "face": "solid",
+        "smoothness": 94.57668998633586,
+        "filter_mode": "normal",
+        "colors": [
+            48.26953125,
+            42.52734375,
+            49.7734375
+        ]
+    },
+    "polished_deepslate.png": {
+        "face": "solid",
+        "smoothness": 92.60869913815888,
+        "filter_mode": "normal",
+        "colors": [
+            72.4609375,
+            72.578125,
+            73.140625
+        ]
+    },
+    "polished_diorite.png": {
+        "face": "solid",
+        "smoothness": 89.43316631022672,
+        "filter_mode": "normal",
+        "colors": [
+            192.98046875,
+            193.078125,
+            194.55078125
+        ]
+    },
+    "polished_granite.png": {
+        "face": "solid",
+        "smoothness": 93.28010478454259,
+        "filter_mode": "normal",
+        "colors": [
+            154.1015625,
+            106.84765625,
+            89.2265625
+        ]
+    },
+    "polished_tuff.png": {
+        "face": "solid",
+        "smoothness": 96.15661425589064,
+        "filter_mode": "normal",
+        "colors": [
+            97.640625,
+            104.140625,
+            99.875
+        ]
+    },
+    "powder_snow.png": {
+        "face": "solid",
+        "smoothness": 98.95816054579849,
+        "filter_mode": "normal",
+        "colors": [
+            248.140625,
+            253.35546875,
+            253.35546875
+        ]
+    },
+    "prismarine.png": {
+        "face": "solid",
+        "smoothness": 89.85175041976542,
+        "filter_mode": "normal",
+        "colors": [
+            98.5,
+            162.08984375,
+            145.83984375
+        ]
+    },
+    "prismarine_bricks.png": {
+        "face": "solid",
+        "smoothness": 92.81393409312028,
+        "filter_mode": "normal",
+        "colors": [
+            99.25,
+            171.625,
+            158.4296875
+        ]
+    },
+    "pumpkin_side.png": {
+        "face": "side",
+        "smoothness": 89.77372464223575,
+        "filter_mode": "normal",
+        "colors": [
+            195.5390625,
+            114.82421875,
+            24.17578125
+        ]
+    },
+    "pumpkin_top.png": {
+        "face": "top",
+        "smoothness": 91.91590790203168,
+        "filter_mode": "normal",
+        "colors": [
+            198.1015625,
+            118.734375,
+            24.4609375
+        ]
+    },
+    "purple_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.78799751290646,
+        "filter_mode": "normal",
+        "colors": [
+            100.4140625,
+            31.62109375,
+            156.3828125
+        ]
+    },
+    "purple_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.95451199475572,
+        "filter_mode": "normal",
+        "colors": [
+            131.921875,
+            55.67578125,
+            177.59765625
+        ]
+    },
+    "purple_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 92.53646362615684,
+        "filter_mode": "normal",
+        "colors": [
+            109.81640625,
+            47.8671875,
+            152.359375
+        ]
+    },
+    "purple_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.64690022503342,
+        "filter_mode": "normal",
+        "colors": [
+            103.1640625,
+            32.46484375,
+            156.390625
+        ]
+    },
+    "purple_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.21793614533921,
+        "filter_mode": "normal",
+        "colors": [
+            118.4453125,
+            70.26953125,
+            86.08984375
+        ]
+    },
+    "purple_wool.png": {
+        "face": "solid",
+        "smoothness": 96.40047428870598,
+        "filter_mode": "normal",
+        "colors": [
+            121.875,
+            42.2109375,
+            172.5078125
+        ]
+    },
+    "purpur_block.png": {
+        "face": "solid",
+        "smoothness": 94.16553189943461,
+        "filter_mode": "normal",
+        "colors": [
+            169.91796875,
+            125.91796875,
+            169.6796875
+        ]
+    },
+    "purpur_pillar.png": {
+        "face": "solid",
+        "smoothness": 92.37788923399658,
+        "filter_mode": "normal",
+        "colors": [
+            171.76953125,
+            129.5,
+            171.578125
+        ]
+    },
+    "purpur_pillar_top.png": {
+        "face": "solid",
+        "smoothness": 93.56460225645408,
+        "filter_mode": "normal",
+        "colors": [
+            171.80078125,
+            128.36328125,
+            171.4921875
+        ]
+    },
+    "quartz_block_bottom.png": {
+        "face": "bottom",
+        "smoothness": 98.71814074964155,
+        "filter_mode": "normal",
+        "colors": [
+            236.84375,
+            230.375,
+            223.90625
+        ]
+    },
+    "quartz_block_side.png": {
+        "face": "side",
+        "smoothness": 97.94631276520876,
+        "filter_mode": "normal",
+        "colors": [
+            235.78125,
+            229.90234375,
+            222.95703125
+        ]
+    },
+    "quartz_block_top.png": {
+        "face": "top",
+        "smoothness": 97.94631276520876,
+        "filter_mode": "normal",
+        "colors": [
+            235.78125,
+            229.90234375,
+            222.95703125
+        ]
+    },
+    "quartz_bricks.png": {
+        "face": "solid",
+        "smoothness": 97.57859565330057,
+        "filter_mode": "normal",
+        "colors": [
+            234.7109375,
+            229.17578125,
+            221.76171875
+        ]
+    },
+    "quartz_pillar.png": {
+        "face": "solid",
+        "smoothness": 98.77812332132339,
+        "filter_mode": "normal",
+        "colors": [
+            235.5,
+            230.6875,
+            224.0
+        ]
+    },
+    "quartz_pillar_top.png": {
+        "face": "solid",
+        "smoothness": 97.81325522116032,
+        "filter_mode": "normal",
+        "colors": [
+            235.11328125,
+            229.8125,
+            222.953125
+        ]
+    },
+    "raw_copper_block.png": {
+        "face": "solid",
+        "smoothness": 90.36812400700016,
+        "filter_mode": "normal",
+        "colors": [
+            154.35546875,
+            105.92578125,
+            79.0859375
+        ]
+    },
+    "raw_gold_block.png": {
+        "face": "solid",
+        "smoothness": 85.8695021337004,
+        "filter_mode": "normal",
+        "colors": [
+            221.69921875,
+            169.28515625,
+            46.86328125
+        ]
+    },
+    "raw_iron_block.png": {
+        "face": "solid",
+        "smoothness": 84.63086068040077,
+        "filter_mode": "normal",
+        "colors": [
+            166.28125,
+            135.72265625,
+            107.3984375
+        ]
+    },
+    "redstone_block.png": {
+        "face": "solid",
+        "smoothness": 95.61112796581767,
+        "filter_mode": "normal",
+        "colors": [
+            175.56640625,
+            24.78125,
+            5.125
+        ]
+    },
+    "redstone_lamp.png": {
+        "face": "solid",
+        "smoothness": 88.77172614578147,
+        "filter_mode": "normal",
+        "colors": [
+            95.21484375,
+            54.61328125,
+            30.0625
+        ]
+    },
+    "redstone_lamp_on.png": {
+        "face": "solid",
+        "smoothness": 74.10980668155051,
+        "filter_mode": "normal",
+        "colors": [
+            142.8515625,
+            101.83984375,
+            60.64453125
+        ]
+    },
+    "redstone_ore.png": {
+        "face": "solid",
+        "smoothness": 92.31431326691143,
+        "filter_mode": "normal",
+        "colors": [
+            140.44921875,
+            109.59375,
+            109.59375
+        ]
+    },
+    "red_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.75386488693054,
+        "filter_mode": "normal",
+        "colors": [
+            142.3828125,
+            32.8125,
+            32.8125
+        ]
+    },
+    "red_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 98.11834160717376,
+        "filter_mode": "normal",
+        "colors": [
+            168.19921875,
+            54.13671875,
+            50.625
+        ]
+    },
+    "red_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 91.8211559673348,
+        "filter_mode": "normal",
+        "colors": [
+            181.99609375,
+            59.58203125,
+            53.015625
+        ]
+    },
+    "red_mushroom_block.png": {
+        "face": "solid",
+        "smoothness": 94.64598096737122,
+        "filter_mode": "normal",
+        "colors": [
+            200.19140625,
+            46.92578125,
+            45.01953125
+        ]
+    },
+    "red_nether_bricks.png": {
+        "face": "solid",
+        "smoothness": 95.35979894713236,
+        "filter_mode": "normal",
+        "colors": [
+            69.546875,
+            7.0390625,
+            9.0078125
+        ]
+    },
+    "red_sand.png": {
+        "face": "solid",
+        "smoothness": 97.6899669323115,
+        "filter_mode": "normal",
+        "colors": [
+            190.67578125,
+            102.95703125,
+            33.17578125
+        ]
+    },
+    "red_sandstone.png": {
+        "face": "side",
+        "smoothness": 94.91267426412041,
+        "filter_mode": "normal",
+        "colors": [
+            186.73046875,
+            99.34375,
+            29.18359375
+        ]
+    },
+    "red_sandstone_bottom.png": {
+        "face": "bottom",
+        "smoothness": 95.57291799990011,
+        "filter_mode": "normal",
+        "colors": [
+            185.6484375,
+            98.4140625,
+            28.37109375
+        ]
+    },
+    "red_sandstone_top.png": {
+        "face": "top",
+        "smoothness": 97.82018528305662,
+        "filter_mode": "normal",
+        "colors": [
+            181.30859375,
+            97.80859375,
+            31.4609375
+        ]
+    },
+    "red_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.52183080031928,
+        "filter_mode": "normal",
+        "colors": [
+            140.41015625,
+            31.0703125,
+            30.04296875
+        ]
+    },
+    "red_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.24151233866822,
+        "filter_mode": "normal",
+        "colors": [
+            143.109375,
+            61.01953125,
+            46.90625
+        ]
+    },
+    "red_wool.png": {
+        "face": "solid",
+        "smoothness": 97.63114565153215,
+        "filter_mode": "normal",
+        "colors": [
+            160.96875,
+            39.3203125,
+            34.640625
+        ]
+    },
+    "reinforced_deepslate_bottom.png": {
+        "face": "bottom",
+        "smoothness": 91.49541202926096,
+        "filter_mode": "normal",
+        "colors": [
+            79.12890625,
+            82.4921875,
+            79.98046875
+        ]
+    },
+    "reinforced_deepslate_side.png": {
+        "face": "side",
+        "smoothness": 83.71012810529383,
+        "filter_mode": "normal",
+        "colors": [
+            102.42578125,
+            109.35546875,
+            100.99609375
+        ]
+    },
+    "reinforced_deepslate_top.png": {
+        "face": "top",
+        "smoothness": 90.38954640430659,
+        "filter_mode": "normal",
+        "colors": [
+            80.328125,
+            82.921875,
+            78.87890625
+        ]
+    },
+    "repeating_command_block_back.png": {
+        "face": "side",
+        "smoothness": 88.11871172574402,
+        "filter_mode": "normal",
+        "colors": [
+            127.76171875,
+            109.38671875,
+            166.703125
+        ]
+    },
+    "repeating_command_block_conditional.png": {
+        "face": "solid",
+        "smoothness": 88.89260513644983,
+        "filter_mode": "normal",
+        "colors": [
+            127.25390625,
+            109.078125,
+            171.46484375
+        ]
+    },
+    "repeating_command_block_front.png": {
+        "face": "solid",
+        "smoothness": 89.10326706262094,
+        "filter_mode": "normal",
+        "colors": [
+            129.46875,
+            111.1171875,
+            176.2421875
+        ]
+    },
+    "repeating_command_block_side.png": {
+        "face": "solid",
+        "smoothness": 88.83673484437735,
+        "filter_mode": "normal",
+        "colors": [
+            128.69140625,
+            110.43359375,
+            170.99609375
+        ]
+    },
+    "respawn_anchor_bottom.png": {
+        "face": "bottom",
+        "smoothness": 93.91612272627266,
+        "filter_mode": "normal",
+        "colors": [
+            32.5859375,
+            10.08203125,
+            60.4453125
+        ]
+    },
+    "respawn_anchor_side0.png": {
+        "face": "side",
+        "smoothness": 92.6526078604643,
+        "filter_mode": "normal",
+        "colors": [
+            39.546875,
+            23.8671875,
+            62.76953125
+        ]
+    },
+    "respawn_anchor_side4.png": {
+        "face": "side",
+        "smoothness": 89.21583755270036,
+        "filter_mode": "normal",
+        "colors": [
+            49.9765625,
+            32.29296875,
+            68.28125
+        ]
+    },
+    "respawn_anchor_top_off.png": {
+        "face": "top",
+        "smoothness": 93.16936279303283,
+        "filter_mode": "normal",
+        "colors": [
+            33.55078125,
+            21.9921875,
+            52.140625
+        ]
+    },
+    "rooted_dirt.png": {
+        "face": "solid",
+        "smoothness": 90.73422246501534,
+        "filter_mode": "normal",
+        "colors": [
+            144.01953125,
+            103.5859375,
+            76.51953125
+        ]
+    },
+    "sand.png": {
+        "face": "solid",
+        "smoothness": 97.17586676303507,
+        "filter_mode": "normal",
+        "colors": [
+            219.15625,
+            207.22265625,
+            163.09765625
+        ]
+    },
+    "sandstone.png": {
+        "face": "side",
+        "smoothness": 93.83467576191833,
+        "filter_mode": "normal",
+        "colors": [
+            216.43359375,
+            203.2578125,
+            155.8359375
+        ]
+    },
+    "sandstone_bottom.png": {
+        "face": "bottom",
+        "smoothness": 94.62394952794088,
+        "filter_mode": "normal",
+        "colors": [
+            215.68359375,
+            202.05078125,
+            154.19140625
+        ]
+    },
+    "sandstone_top.png": {
+        "face": "top",
+        "smoothness": 97.98046904663202,
+        "filter_mode": "normal",
+        "colors": [
+            223.83984375,
+            214.19921875,
+            170.3359375
+        ]
+    },
+    "sculk.png": {
+        "face": "solid",
+        "smoothness": 96.75579737932325,
+        "filter_mode": "normal",
+        "colors": [
+            13.0078125,
+            27.92578125,
+            33.77734375
+        ]
+    },
+    "sculk_catalyst_bottom.png": {
+        "face": "bottom",
+        "smoothness": 87.65192530486331,
+        "filter_mode": "normal",
+        "colors": [
+            89.32421875,
+            109.1875,
+            109.23828125
+        ]
+    },
+    "sculk_catalyst_side.png": {
+        "face": "side",
+        "smoothness": 84.77488592135013,
+        "filter_mode": "normal",
+        "colors": [
+            76.6015625,
+            93.89453125,
+            90.19921875
+        ]
+    },
+    "sculk_catalyst_side_bloom.png": {
+        "face": "side",
+        "smoothness": 82.53439310571558,
+        "filter_mode": "normal",
+        "colors": [
+            77.13671875,
+            101.18359375,
+            97.12890625
+        ]
+    },
+    "sculk_catalyst_top.png": {
+        "face": "solid",
+        "smoothness": 93.70317679639724,
+        "filter_mode": "normal",
+        "colors": [
+            15.34375,
+            31.9609375,
+            38.41796875
+        ]
+    },
+    "sculk_catalyst_top_bloom.png": {
+        "face": "top",
+        "smoothness": 93.00459351872536,
+        "filter_mode": "normal",
+        "colors": [
+            15.40625,
+            33.828125,
+            40.08984375
+        ]
+    },
+    "sea_lantern.png": {
+        "face": "solid",
+        "smoothness": 88.29062804186336,
+        "filter_mode": "normal",
+        "colors": [
+            172.21484375,
+            200.19140625,
+            190.78125
+        ]
+    },
+    "shroomlight.png": {
+        "face": "solid",
+        "smoothness": 86.26809929684542,
+        "filter_mode": "normal",
+        "colors": [
+            240.85546875,
+            146.5390625,
+            70.8828125
+        ]
+    },
+    "shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.11555565499287,
+        "filter_mode": "normal",
+        "colors": [
+            139.30078125,
+            96.921875,
+            139.30078125
+        ]
+    },
+    "smithing_table_bottom.png": {
+        "face": "bottom",
+        "smoothness": 98.19016079365878,
+        "filter_mode": "normal",
+        "colors": [
+            64.1875,
+            28.0859375,
+            23.8359375
+        ]
+    },
+    "smithing_table_front.png": {
+        "face": "side",
+        "smoothness": 94.5310360661731,
+        "filter_mode": "normal",
+        "colors": [
+            56.51171875,
+            37.34765625,
+            38.52734375
+        ]
+    },
+    "smithing_table_side.png": {
+        "face": "side",
+        "smoothness": 94.6312455939863,
+        "filter_mode": "normal",
+        "colors": [
+            55.26953125,
+            35.45703125,
+            35.9609375
+        ]
+    },
+    "smithing_table_top.png": {
+        "face": "top",
+        "smoothness": 96.73177745804831,
+        "filter_mode": "normal",
+        "colors": [
+            57.40234375,
+            58.88671875,
+            70.984375
+        ]
+    },
+    "smoker_bottom.png": {
+        "face": "bottom",
+        "smoothness": 91.73755311288606,
+        "filter_mode": "normal",
+        "colors": [
+            107.46484375,
+            105.64453125,
+            103.69140625
+        ]
+    },
+    "smoker_front.png": {
+        "face": "side",
+        "smoothness": 87.8273485920899,
+        "filter_mode": "normal",
+        "colors": [
+            87.953125,
+            75.37890625,
+            57.99609375
+        ]
+    },
+    "smoker_side.png": {
+        "face": "side",
+        "smoothness": 90.20380813869251,
+        "filter_mode": "normal",
+        "colors": [
+            102.671875,
+            91.67578125,
+            75.95703125
+        ]
+    },
+    "smoker_top.png": {
+        "face": "top",
+        "smoothness": 89.66742346110014,
+        "filter_mode": "normal",
+        "colors": [
+            85.484375,
+            83.5078125,
+            81.3046875
+        ]
+    },
+    "smooth_basalt.png": {
+        "face": "solid",
+        "smoothness": 94.04523916311793,
+        "filter_mode": "normal",
+        "colors": [
+            72.67578125,
+            72.29296875,
+            78.20703125
+        ]
+    },
+    "smooth_stone.png": {
+        "face": "solid",
+        "smoothness": 94.24396295249599,
+        "filter_mode": "normal",
+        "colors": [
+            158.6796875,
+            158.6796875,
+            158.6796875
+        ]
+    },
+    "smooth_stone_slab_side.png": {
+        "face": "side",
+        "smoothness": 92.89204390262769,
+        "filter_mode": "normal",
+        "colors": [
+            167.546875,
+            167.546875,
+            167.546875
+        ]
+    },
+    "snow.png": {
+        "face": "solid",
+        "smoothness": 99.11507922069808,
+        "filter_mode": "normal",
+        "colors": [
+            249.01953125,
+            254.22265625,
+            254.22265625
+        ]
+    },
+    "soul_sand.png": {
+        "face": "solid",
+        "smoothness": 94.0303078776244,
+        "filter_mode": "normal",
+        "colors": [
+            81.38671875,
+            62.16015625,
+            50.703125
+        ]
+    },
+    "soul_soil.png": {
+        "face": "solid",
+        "smoothness": 95.61333772689466,
+        "filter_mode": "normal",
+        "colors": [
+            75.77734375,
+            57.53515625,
+            46.640625
+        ]
+    },
+    "sponge.png": {
+        "face": "solid",
+        "smoothness": 92.18849497824685,
+        "filter_mode": "normal",
+        "colors": [
+            195.8515625,
+            192.14453125,
+            74.609375
+        ]
+    },
+    "spruce_log.png": {
+        "face": "solid",
+        "smoothness": 96.89258839899713,
+        "filter_mode": "normal",
+        "colors": [
+            58.83203125,
+            37.6640625,
+            16.91015625
+        ]
+    },
+    "spruce_log_top.png": {
+        "face": "solid",
+        "smoothness": 94.66044698932158,
+        "filter_mode": "normal",
+        "colors": [
+            108.80859375,
+            80.37890625,
+            46.828125
+        ]
+    },
+    "spruce_planks.png": {
+        "face": "solid",
+        "smoothness": 94.81893604196327,
+        "filter_mode": "normal",
+        "colors": [
+            114.91796875,
+            84.84375,
+            48.55859375
+        ]
+    },
+    "stone.png": {
+        "face": "solid",
+        "smoothness": 96.17227900185327,
+        "filter_mode": "normal",
+        "colors": [
+            125.546875,
+            125.546875,
+            125.546875
+        ]
+    },
+    "stone_bricks.png": {
+        "face": "solid",
+        "smoothness": 94.01986640818377,
+        "filter_mode": "normal",
+        "colors": [
+            122.45703125,
+            121.81640625,
+            122.45703125
+        ]
+    },
+    "stripped_acacia_log.png": {
+        "face": "solid",
+        "smoothness": 98.26810564717286,
+        "filter_mode": "normal",
+        "colors": [
+            174.7421875,
+            92.93359375,
+            59.77734375
+        ]
+    },
+    "stripped_acacia_log_top.png": {
+        "face": "solid",
+        "smoothness": 97.21201584369729,
+        "filter_mode": "normal",
+        "colors": [
+            166.12890625,
+            91.00390625,
+            51.62890625
+        ]
+    },
+    "stripped_bamboo_block.png": {
+        "face": "solid",
+        "smoothness": 89.24194881057215,
+        "filter_mode": "normal",
+        "colors": [
+            193.37109375,
+            173.1015625,
+            80.47265625
+        ]
+    },
+    "stripped_bamboo_block_top.png": {
+        "face": "solid",
+        "smoothness": 83.45802392715369,
+        "filter_mode": "normal",
+        "colors": [
+            178.4375,
+            158.859375,
+            72.75
+        ]
+    },
+    "stripped_birch_log.png": {
+        "face": "solid",
+        "smoothness": 96.94161160601247,
+        "filter_mode": "normal",
+        "colors": [
+            196.9921875,
+            176.015625,
+            118.37109375
+        ]
+    },
+    "stripped_birch_log_top.png": {
+        "face": "solid",
+        "smoothness": 94.2138665482973,
+        "filter_mode": "normal",
+        "colors": [
+            191.16015625,
+            171.78125,
+            116.390625
+        ]
+    },
+    "stripped_cherry_log.png": {
+        "face": "solid",
+        "smoothness": 97.77550667892508,
+        "filter_mode": "normal",
+        "colors": [
+            215.078125,
+            145.16015625,
+            148.9453125
+        ]
+    },
+    "stripped_cherry_log_top.png": {
+        "face": "solid",
+        "smoothness": 93.25962385806164,
+        "filter_mode": "normal",
+        "colors": [
+            221.0390625,
+            164.5546875,
+            157.66796875
+        ]
+    },
+    "stripped_crimson_stem.png": {
+        "face": "solid",
+        "smoothness": 97.96236174279264,
+        "filter_mode": "normal",
+        "colors": [
+            137.3203125,
+            57.3203125,
+            90.05078125
+        ]
+    },
+    "stripped_crimson_stem_top.png": {
+        "face": "solid",
+        "smoothness": 96.79190348248875,
+        "filter_mode": "normal",
+        "colors": [
+            121.73828125,
+            56.3125,
+            82.5859375
+        ]
+    },
+    "stripped_dark_oak_log.png": {
+        "face": "solid",
+        "smoothness": 98.3770793029171,
+        "filter_mode": "normal",
+        "colors": [
+            72.83203125,
+            56.890625,
+            36.03515625
+        ]
+    },
+    "stripped_dark_oak_log_top.png": {
+        "face": "solid",
+        "smoothness": 97.86929889809272,
+        "filter_mode": "normal",
+        "colors": [
+            65.890625,
+            44.22265625,
+            22.76171875
+        ]
+    },
+    "stripped_jungle_log.png": {
+        "face": "solid",
+        "smoothness": 97.23418338461664,
+        "filter_mode": "normal",
+        "colors": [
+            171.48828125,
+            132.8359375,
+            84.58203125
+        ]
+    },
+    "stripped_jungle_log_top.png": {
+        "face": "solid",
+        "smoothness": 96.41412618460562,
+        "filter_mode": "normal",
+        "colors": [
+            165.86328125,
+            122.984375,
+            81.85546875
+        ]
+    },
+    "stripped_mangrove_log.png": {
+        "face": "solid",
+        "smoothness": 98.38890393695388,
+        "filter_mode": "normal",
+        "colors": [
+            119.54296875,
+            54.4296875,
+            47.9921875
+        ]
+    },
+    "stripped_mangrove_log_top.png": {
+        "face": "solid",
+        "smoothness": 96.90498254868099,
+        "filter_mode": "normal",
+        "colors": [
+            109.03515625,
+            43.578125,
+            43.30859375
+        ]
+    },
+    "stripped_oak_log.png": {
+        "face": "solid",
+        "smoothness": 96.6908124641474,
+        "filter_mode": "normal",
+        "colors": [
+            177.45703125,
+            144.1015625,
+            86.05078125
+        ]
+    },
+    "stripped_oak_log_top.png": {
+        "face": "solid",
+        "smoothness": 93.58455108899115,
+        "filter_mode": "normal",
+        "colors": [
+            160.0859375,
+            129.6875,
+            77.15234375
+        ]
+    },
+    "stripped_spruce_log.png": {
+        "face": "solid",
+        "smoothness": 97.68334245195976,
+        "filter_mode": "normal",
+        "colors": [
+            115.6484375,
+            89.96484375,
+            52.44140625
+        ]
+    },
+    "stripped_spruce_log_top.png": {
+        "face": "solid",
+        "smoothness": 94.23107741748748,
+        "filter_mode": "normal",
+        "colors": [
+            105.875,
+            80.2578125,
+            46.56640625
+        ]
+    },
+    "stripped_warped_stem.png": {
+        "face": "solid",
+        "smoothness": 97.24597382986953,
+        "filter_mode": "normal",
+        "colors": [
+            57.5703125,
+            150.92578125,
+            147.77734375
+        ]
+    },
+    "stripped_warped_stem_top.png": {
+        "face": "solid",
+        "smoothness": 94.78620229947008,
+        "filter_mode": "normal",
+        "colors": [
+            52.1015625,
+            128.9375,
+            124.46484375
+        ]
+    },
+    "suspicious_gravel_0.png": {
+        "face": "solid",
+        "smoothness": 93.08898620848251,
+        "filter_mode": "normal",
+        "colors": [
+            129.7578125,
+            125.09375,
+            124.140625
+        ]
+    },
+    "suspicious_gravel_1.png": {
+        "face": "solid",
+        "smoothness": 92.87427237305216,
+        "filter_mode": "normal",
+        "colors": [
+            128.54296875,
+            123.8359375,
+            122.984375
+        ]
+    },
+    "suspicious_gravel_2.png": {
+        "face": "solid",
+        "smoothness": 93.08313245964115,
+        "filter_mode": "normal",
+        "colors": [
+            126.03515625,
+            120.953125,
+            120.140625
+        ]
+    },
+    "suspicious_gravel_3.png": {
+        "face": "solid",
+        "smoothness": 92.34533454082799,
+        "filter_mode": "normal",
+        "colors": [
+            124.1875,
+            119.05078125,
+            118.2734375
+        ]
+    },
+    "suspicious_sand_0.png": {
+        "face": "solid",
+        "smoothness": 95.74596505101908,
+        "filter_mode": "normal",
+        "colors": [
+            217.69921875,
+            204.33203125,
+            159.21875
+        ]
+    },
+    "suspicious_sand_1.png": {
+        "face": "solid",
+        "smoothness": 95.27493751283438,
+        "filter_mode": "normal",
+        "colors": [
+            216.5625,
+            202.703125,
+            156.53515625
+        ]
+    },
+    "suspicious_sand_2.png": {
+        "face": "solid",
+        "smoothness": 94.87509257764172,
+        "filter_mode": "normal",
+        "colors": [
+            214.06640625,
+            198.8046875,
+            151.29296875
+        ]
+    },
+    "suspicious_sand_3.png": {
+        "face": "solid",
+        "smoothness": 93.95770146587716,
+        "filter_mode": "normal",
+        "colors": [
+            210.62109375,
+            193.046875,
+            145.34375
+        ]
+    },
+    "target_side.png": {
+        "face": "side",
+        "smoothness": 72.84282715617248,
+        "filter_mode": "normal",
+        "colors": [
+            229.2109375,
+            176.2265625,
+            168.0625
+        ]
+    },
+    "target_top.png": {
+        "face": "top",
+        "smoothness": 74.23244955258525,
+        "filter_mode": "normal",
+        "colors": [
+            226.3828125,
+            170.31640625,
+            157.8046875
+        ]
+    },
+    "terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.40780360057889,
+        "filter_mode": "normal",
+        "colors": [
+            152.1328125,
+            94.015625,
+            67.71875
+        ]
+    },
+    "tnt_bottom.png": {
+        "face": "bottom",
+        "smoothness": 85.55512919867813,
+        "filter_mode": "normal",
+        "colors": [
+            166.75,
+            66.75,
+            53.25
+        ]
+    },
+    "tnt_side.png": {
+        "face": "side",
+        "smoothness": 82.92118587598071,
+        "filter_mode": "normal",
+        "colors": [
+            182.328125,
+            88.1640625,
+            84.0625
+        ]
+    },
+    "tnt_top.png": {
+        "face": "top",
+        "smoothness": 86.8372522226019,
+        "filter_mode": "normal",
+        "colors": [
+            142.71484375,
+            62.16015625,
+            53.796875
+        ]
+    },
+    "tube_coral_block.png": {
+        "face": "solid",
+        "smoothness": 93.5458284910718,
+        "filter_mode": "normal",
+        "colors": [
+            49.125,
+            87.125,
+            206.640625
+        ]
+    },
+    "tuff.png": {
+        "face": "solid",
+        "smoothness": 91.92903693846169,
+        "filter_mode": "normal",
+        "colors": [
+            108.05859375,
+            109.140625,
+            102.6328125
+        ]
+    },
+    "tuff_bricks.png": {
+        "face": "solid",
+        "smoothness": 93.46394215478446,
+        "filter_mode": "normal",
+        "colors": [
+            98.109375,
+            102.625,
+            95.34375
+        ]
+    },
+    "verdant_froglight_side.png": {
+        "face": "solid",
+        "smoothness": 93.17669529392796,
+        "filter_mode": "normal",
+        "colors": [
+            211.2109375,
+            234.64453125,
+            208.25
+        ]
+    },
+    "verdant_froglight_top.png": {
+        "face": "solid",
+        "smoothness": 95.29797027315506,
+        "filter_mode": "normal",
+        "colors": [
+            229.2578125,
+            244.4609375,
+            228.109375
+        ]
+    },
+    "warped_nylium.png": {
+        "face": "top",
+        "smoothness": 94.65979556731403,
+        "filter_mode": "normal",
+        "colors": [
+            43.203125,
+            114.34765625,
+            101.2734375
+        ]
+    },
+    "warped_nylium_side.png": {
+        "face": "solid",
+        "smoothness": 94.23964050029203,
+        "filter_mode": "normal",
+        "colors": [
+            72.60546875,
+            61.94140625,
+            59.51953125
+        ]
+    },
+    "warped_planks.png": {
+        "face": "solid",
+        "smoothness": 91.2661368456972,
+        "filter_mode": "normal",
+        "colors": [
+            43.05078125,
+            104.87109375,
+            99.140625
+        ]
+    },
+    "warped_stem.png": {
+        "face": "solid",
+        "smoothness": 95.12680848968841,
+        "filter_mode": "normal",
+        "colors": [
+            57.99609375,
+            59.43359375,
+            77.9140625
+        ]
+    },
+    "warped_stem_top.png": {
+        "face": "solid",
+        "smoothness": 92.25632447705051,
+        "filter_mode": "normal",
+        "colors": [
+            53.34765625,
+            109.66015625,
+            110.14453125
+        ]
+    },
+    "warped_wart_block.png": {
+        "face": "solid",
+        "smoothness": 95.99080298649477,
+        "filter_mode": "normal",
+        "colors": [
+            22.80078125,
+            119.9453125,
+            121.10546875
+        ]
+    },
+    "weathered_chiseled_copper.png": {
+        "face": "solid",
+        "smoothness": 92.57249245740323,
+        "filter_mode": "normal",
+        "colors": [
+            104.80078125,
+            150.96875,
+            111.11328125
+        ]
+    },
+    "weathered_copper.png": {
+        "face": "solid",
+        "smoothness": 95.59216586936584,
+        "filter_mode": "normal",
+        "colors": [
+            108.296875,
+            153.00390625,
+            110.359375
+        ]
+    },
+    "weathered_copper_bulb.png": {
+        "face": "solid",
+        "smoothness": 90.09093447366577,
+        "filter_mode": "normal",
+        "colors": [
+            92.421875,
+            126.6953125,
+            99.48828125
+        ]
+    },
+    "weathered_copper_bulb_lit.png": {
+        "face": "solid",
+        "smoothness": 88.91762909100956,
+        "filter_mode": "normal",
+        "colors": [
+            156.2890625,
+            157.1328125,
+            98.71875
+        ]
+    },
+    "weathered_cut_copper.png": {
+        "face": "solid",
+        "smoothness": 93.90262269050345,
+        "filter_mode": "normal",
+        "colors": [
+            109.37109375,
+            145.3671875,
+            107.53125
+        ]
+    },
+    "wet_sponge.png": {
+        "face": "solid",
+        "smoothness": 92.25198021817211,
+        "filter_mode": "normal",
+        "colors": [
+            171.09375,
+            181.2109375,
+            70.4375
+        ]
+    },
+    "white_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.71505987640391,
+        "filter_mode": "normal",
+        "colors": [
+            207.109375,
+            213.078125,
+            214.07421875
+        ]
+    },
+    "white_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.44548144266085,
+        "filter_mode": "normal",
+        "colors": [
+            225.7265625,
+            227.4921875,
+            227.83984375
+        ]
+    },
+    "white_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 82.24524653409627,
+        "filter_mode": "normal",
+        "colors": [
+            188.5,
+            212.49609375,
+            202.89453125
+        ]
+    },
+    "white_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 95.73729970359291,
+        "filter_mode": "normal",
+        "colors": [
+            215.5234375,
+            220.5390625,
+            221.03125
+        ]
+    },
+    "white_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.26266785268837,
+        "filter_mode": "normal",
+        "colors": [
+            209.63671875,
+            178.03515625,
+            161.34765625
+        ]
+    },
+    "white_wool.png": {
+        "face": "solid",
+        "smoothness": 95.56603192744151,
+        "filter_mode": "normal",
+        "colors": [
+            233.58984375,
+            236.296875,
+            236.7734375
+        ]
+    },
+    "yellow_concrete.png": {
+        "face": "solid",
+        "smoothness": 99.69468560242701,
+        "filter_mode": "normal",
+        "colors": [
+            240.98828125,
+            175.41015625,
+            21.44921875
+        ]
+    },
+    "yellow_concrete_powder.png": {
+        "face": "solid",
+        "smoothness": 97.30852490924453,
+        "filter_mode": "normal",
+        "colors": [
+            232.88671875,
+            199.17578125,
+            54.76953125
+        ]
+    },
+    "yellow_glazed_terracotta.png": {
+        "face": "solid",
+        "smoothness": 89.4996885641315,
+        "filter_mode": "normal",
+        "colors": [
+            234.34765625,
+            192.3203125,
+            88.7109375
+        ]
+    },
+    "yellow_shulker_box.png": {
+        "face": "solid",
+        "smoothness": 97.70259999494981,
+        "filter_mode": "normal",
+        "colors": [
+            248.03515625,
+            188.99609375,
+            29.421875
+        ]
+    },
+    "yellow_terracotta.png": {
+        "face": "solid",
+        "smoothness": 99.22474283956352,
+        "filter_mode": "normal",
+        "colors": [
+            186.26953125,
+            133.140625,
+            35.36328125
+        ]
+    },
+    "yellow_wool.png": {
+        "face": "solid",
+        "smoothness": 96.63363048238752,
+        "filter_mode": "normal",
+        "colors": [
+            248.78125,
+            197.9609375,
+            39.6328125
+        ]
+    }
+}
